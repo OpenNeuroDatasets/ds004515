@@ -1,0 +1,1160 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+44.6380000000	n/a	n/a	STATUS	n/a	n/a	S 15
+44.6380000000	n/a	n/a	STATUS	n/a	n/a	R  6
+48.7980000000	n/a	n/a	STATUS	n/a	n/a	S 15
+48.7980000000	n/a	n/a	STATUS	n/a	n/a	R  6
+52.9160000000	n/a	n/a	STATUS	n/a	n/a	S 15
+52.9160000000	n/a	n/a	STATUS	n/a	n/a	R  6
+91.6840000000	n/a	n/a	STATUS	n/a	n/a	S 15
+91.6840000000	n/a	n/a	STATUS	n/a	n/a	R  6
+95.8960000000	n/a	n/a	STATUS	n/a	n/a	S 15
+95.8960000000	n/a	n/a	STATUS	n/a	n/a	R  6
+99.8880000000	n/a	n/a	STATUS	n/a	n/a	S 15
+99.8880000000	n/a	n/a	STATUS	n/a	n/a	R  6
+103.8440000000	n/a	n/a	STATUS	n/a	n/a	S 15
+103.8440000000	n/a	n/a	STATUS	n/a	n/a	R  6
+107.8000000000	n/a	n/a	STATUS	n/a	n/a	S 15
+107.8000000000	n/a	n/a	STATUS	n/a	n/a	R  6
+111.5600000000	n/a	n/a	STATUS	n/a	n/a	S 15
+111.5600000000	n/a	n/a	STATUS	n/a	n/a	R  6
+115.0480000000	n/a	n/a	STATUS	n/a	n/a	S 15
+115.0480000000	n/a	n/a	STATUS	n/a	n/a	R  6
+118.6520000000	n/a	n/a	STATUS	n/a	n/a	S 15
+118.6520000000	n/a	n/a	STATUS	n/a	n/a	R  6
+122.1480000000	n/a	n/a	STATUS	n/a	n/a	S 15
+122.1480000000	n/a	n/a	STATUS	n/a	n/a	R  6
+125.6120000000	n/a	n/a	STATUS	n/a	n/a	S 15
+125.6120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+152.8360000000	n/a	n/a	STATUS	n/a	n/a	S 15
+152.8360000000	n/a	n/a	STATUS	n/a	n/a	R  6
+157.5400000000	n/a	n/a	STATUS	n/a	n/a	S 15
+157.5400000000	n/a	n/a	STATUS	n/a	n/a	R  6
+163.0200000000	n/a	n/a	STATUS	n/a	n/a	S 15
+163.0200000000	n/a	n/a	STATUS	n/a	n/a	R  6
+168.1040000000	n/a	n/a	STATUS	n/a	n/a	S 15
+168.1040000000	n/a	n/a	STATUS	n/a	n/a	R  6
+172.9240000000	n/a	n/a	STATUS	n/a	n/a	S 15
+172.9240000000	n/a	n/a	STATUS	n/a	n/a	R  6
+177.7840000000	n/a	n/a	STATUS	n/a	n/a	S 15
+177.7840000000	n/a	n/a	STATUS	n/a	n/a	R  6
+182.4800000000	n/a	n/a	STATUS	n/a	n/a	S 15
+182.4800000000	n/a	n/a	STATUS	n/a	n/a	R  6
+187.3360000000	n/a	n/a	STATUS	n/a	n/a	S 15
+187.3360000000	n/a	n/a	STATUS	n/a	n/a	R  6
+213.9620000000	n/a	n/a	STATUS	n/a	n/a	S 11
+214.9920000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+214.9920000000	n/a	n/a	STATUS	n/a	n/a	R  1
+215.9380000000	n/a	n/a	STATUS	n/a	n/a	S  8
+215.9380000000	n/a	n/a	STATUS	n/a	n/a	R 12
+216.8120000000	n/a	n/a	STATUS	n/a	n/a	S  5
+216.8120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+219.8540000000	n/a	n/a	STATUS	n/a	n/a	S 12
+220.5040000000	n/a	n/a	Left Button	n/a	n/a	S 10
+221.7640000000	n/a	n/a	STATUS	n/a	n/a	S  8
+221.7640000000	n/a	n/a	STATUS	n/a	n/a	R 12
+222.7580000000	n/a	n/a	STATUS	n/a	n/a	S  5
+222.7580000000	n/a	n/a	STATUS	n/a	n/a	R  6
+225.9720000000	n/a	n/a	STATUS	n/a	n/a	S 13
+226.9520000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+226.9520000000	n/a	n/a	STATUS	n/a	n/a	R  1
+228.5040000000	n/a	n/a	STATUS	n/a	n/a	S  9
+228.5040000000	n/a	n/a	STATUS	n/a	n/a	R 12
+229.3060000000	n/a	n/a	STATUS	n/a	n/a	S  7
+229.3060000000	n/a	n/a	STATUS	n/a	n/a	R  6
+232.7060000000	n/a	n/a	STATUS	n/a	n/a	S 14
+233.4020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+234.9500000000	n/a	n/a	STATUS	n/a	n/a	S  9
+234.9500000000	n/a	n/a	STATUS	n/a	n/a	R 12
+235.8420000000	n/a	n/a	STATUS	n/a	n/a	S  7
+235.8420000000	n/a	n/a	STATUS	n/a	n/a	R  6
+239.1420000000	n/a	n/a	STATUS	n/a	n/a	S 11
+239.7320000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+239.7320000000	n/a	n/a	STATUS	n/a	n/a	R  1
+241.2660000000	n/a	n/a	STATUS	n/a	n/a	S  8
+241.2660000000	n/a	n/a	STATUS	n/a	n/a	R 12
+242.1600000000	n/a	n/a	STATUS	n/a	n/a	S  5
+242.1600000000	n/a	n/a	STATUS	n/a	n/a	R  6
+245.0280000000	n/a	n/a	STATUS	n/a	n/a	S 14
+245.5960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+246.6980000000	n/a	n/a	STATUS	n/a	n/a	S  9
+246.6980000000	n/a	n/a	STATUS	n/a	n/a	R 12
+247.6500000000	n/a	n/a	STATUS	n/a	n/a	S  7
+247.6500000000	n/a	n/a	STATUS	n/a	n/a	R  6
+250.6300000000	n/a	n/a	STATUS	n/a	n/a	S 11
+251.3260000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+251.3260000000	n/a	n/a	STATUS	n/a	n/a	R  1
+252.6040000000	n/a	n/a	STATUS	n/a	n/a	S  8
+252.6040000000	n/a	n/a	STATUS	n/a	n/a	R 12
+253.4060000000	n/a	n/a	STATUS	n/a	n/a	S  5
+253.4060000000	n/a	n/a	STATUS	n/a	n/a	R  6
+256.4660000000	n/a	n/a	STATUS	n/a	n/a	S 14
+257.1780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+258.3860000000	n/a	n/a	STATUS	n/a	n/a	S  9
+258.3860000000	n/a	n/a	STATUS	n/a	n/a	R 12
+259.4180000000	n/a	n/a	STATUS	n/a	n/a	S  8
+259.4180000000	n/a	n/a	STATUS	n/a	n/a	R  6
+262.0960000000	n/a	n/a	STATUS	n/a	n/a	S 12
+262.8300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+263.8860000000	n/a	n/a	STATUS	n/a	n/a	S  8
+263.8860000000	n/a	n/a	STATUS	n/a	n/a	R 12
+264.7600000000	n/a	n/a	STATUS	n/a	n/a	S  5
+264.7600000000	n/a	n/a	STATUS	n/a	n/a	R  6
+267.4140000000	n/a	n/a	STATUS	n/a	n/a	S 14
+267.9500000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+267.9500000000	n/a	n/a	STATUS	n/a	n/a	R  1
+268.8220000000	n/a	n/a	STATUS	n/a	n/a	S  9
+268.8220000000	n/a	n/a	STATUS	n/a	n/a	R 12
+269.8260000000	n/a	n/a	STATUS	n/a	n/a	S  7
+269.8260000000	n/a	n/a	STATUS	n/a	n/a	R  6
+272.4800000000	n/a	n/a	STATUS	n/a	n/a	S 11
+272.9900000000	n/a	n/a	Left Button	n/a	n/a	S 10
+273.9940000000	n/a	n/a	STATUS	n/a	n/a	S  8
+273.9940000000	n/a	n/a	STATUS	n/a	n/a	R 12
+274.9960000000	n/a	n/a	STATUS	n/a	n/a	S  6
+274.9960000000	n/a	n/a	STATUS	n/a	n/a	R  6
+277.5780000000	n/a	n/a	STATUS	n/a	n/a	S 11
+278.0740000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+278.0740000000	n/a	n/a	STATUS	n/a	n/a	R  1
+279.0060000000	n/a	n/a	STATUS	n/a	n/a	S  8
+279.0060000000	n/a	n/a	STATUS	n/a	n/a	R 12
+279.8780000000	n/a	n/a	STATUS	n/a	n/a	S  5
+279.8780000000	n/a	n/a	STATUS	n/a	n/a	R  6
+282.8000000000	n/a	n/a	STATUS	n/a	n/a	S 13
+283.4100000000	n/a	n/a	Left Button	n/a	n/a	S 10
+284.5500000000	n/a	n/a	STATUS	n/a	n/a	S  9
+284.5500000000	n/a	n/a	STATUS	n/a	n/a	R 12
+285.5820000000	n/a	n/a	STATUS	n/a	n/a	S  8
+285.5820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+288.7160000000	n/a	n/a	STATUS	n/a	n/a	S 12
+289.3420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+290.8540000000	n/a	n/a	STATUS	n/a	n/a	S  8
+290.8540000000	n/a	n/a	STATUS	n/a	n/a	R 12
+291.6760000000	n/a	n/a	STATUS	n/a	n/a	S  5
+291.6760000000	n/a	n/a	STATUS	n/a	n/a	R  6
+294.9700000000	n/a	n/a	STATUS	n/a	n/a	S 12
+295.4220000000	n/a	n/a	Left Button	n/a	n/a	S 10
+296.8820000000	n/a	n/a	STATUS	n/a	n/a	S  8
+296.8820000000	n/a	n/a	STATUS	n/a	n/a	R 12
+297.8340000000	n/a	n/a	STATUS	n/a	n/a	S  5
+297.8340000000	n/a	n/a	STATUS	n/a	n/a	R  6
+300.4180000000	n/a	n/a	STATUS	n/a	n/a	S 13
+301.0660000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+301.0660000000	n/a	n/a	STATUS	n/a	n/a	R  1
+301.9480000000	n/a	n/a	STATUS	n/a	n/a	S  9
+301.9480000000	n/a	n/a	STATUS	n/a	n/a	R 12
+302.7620000000	n/a	n/a	STATUS	n/a	n/a	S  7
+302.7620000000	n/a	n/a	STATUS	n/a	n/a	R  6
+305.5320000000	n/a	n/a	STATUS	n/a	n/a	S 11
+306.0620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+306.9920000000	n/a	n/a	STATUS	n/a	n/a	S  8
+306.9920000000	n/a	n/a	STATUS	n/a	n/a	R 12
+307.9440000000	n/a	n/a	STATUS	n/a	n/a	S  6
+307.9440000000	n/a	n/a	STATUS	n/a	n/a	R  6
+311.0020000000	n/a	n/a	STATUS	n/a	n/a	S 13
+311.5420000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+311.5420000000	n/a	n/a	STATUS	n/a	n/a	R  1
+312.8980000000	n/a	n/a	STATUS	n/a	n/a	S  9
+312.8980000000	n/a	n/a	STATUS	n/a	n/a	R 12
+313.8300000000	n/a	n/a	STATUS	n/a	n/a	S  7
+313.8300000000	n/a	n/a	STATUS	n/a	n/a	R  6
+316.9920000000	n/a	n/a	STATUS	n/a	n/a	S 14
+317.4740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+318.9120000000	n/a	n/a	STATUS	n/a	n/a	S  9
+318.9120000000	n/a	n/a	STATUS	n/a	n/a	R 12
+319.9360000000	n/a	n/a	STATUS	n/a	n/a	S  8
+319.9360000000	n/a	n/a	STATUS	n/a	n/a	R  6
+322.7180000000	n/a	n/a	STATUS	n/a	n/a	S 12
+323.2140000000	n/a	n/a	Left Button	n/a	n/a	S 10
+324.3660000000	n/a	n/a	STATUS	n/a	n/a	S  8
+324.3660000000	n/a	n/a	STATUS	n/a	n/a	R 12
+325.3180000000	n/a	n/a	STATUS	n/a	n/a	S  5
+325.3180000000	n/a	n/a	STATUS	n/a	n/a	R  6
+328.3500000000	n/a	n/a	STATUS	n/a	n/a	S 11
+328.8620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+330.1940000000	n/a	n/a	STATUS	n/a	n/a	S  8
+330.1940000000	n/a	n/a	STATUS	n/a	n/a	R 12
+331.1460000000	n/a	n/a	STATUS	n/a	n/a	S  6
+331.1460000000	n/a	n/a	STATUS	n/a	n/a	R  6
+333.8860000000	n/a	n/a	STATUS	n/a	n/a	S 14
+334.2660000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+334.2660000000	n/a	n/a	STATUS	n/a	n/a	R  1
+335.3060000000	n/a	n/a	STATUS	n/a	n/a	S  9
+335.3060000000	n/a	n/a	STATUS	n/a	n/a	R 12
+336.2480000000	n/a	n/a	STATUS	n/a	n/a	S  8
+336.2480000000	n/a	n/a	STATUS	n/a	n/a	R  6
+339.4140000000	n/a	n/a	STATUS	n/a	n/a	S 13
+339.9220000000	n/a	n/a	Left Button	n/a	n/a	S 10
+341.3760000000	n/a	n/a	STATUS	n/a	n/a	S  9
+341.3760000000	n/a	n/a	STATUS	n/a	n/a	R 12
+342.2800000000	n/a	n/a	STATUS	n/a	n/a	S  8
+342.2800000000	n/a	n/a	STATUS	n/a	n/a	R  6
+345.0120000000	n/a	n/a	STATUS	n/a	n/a	S 13
+345.4460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+346.4260000000	n/a	n/a	STATUS	n/a	n/a	S  9
+346.4260000000	n/a	n/a	STATUS	n/a	n/a	R 12
+347.3280000000	n/a	n/a	STATUS	n/a	n/a	S  8
+347.3280000000	n/a	n/a	STATUS	n/a	n/a	R  6
+350.1280000000	n/a	n/a	STATUS	n/a	n/a	S 13
+350.6020000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+350.6020000000	n/a	n/a	STATUS	n/a	n/a	R  1
+351.6480000000	n/a	n/a	STATUS	n/a	n/a	S  9
+351.6480000000	n/a	n/a	STATUS	n/a	n/a	R 12
+352.6820000000	n/a	n/a	STATUS	n/a	n/a	S  7
+352.6820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+355.6840000000	n/a	n/a	STATUS	n/a	n/a	S 13
+356.2540000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+356.2540000000	n/a	n/a	STATUS	n/a	n/a	R  1
+357.6340000000	n/a	n/a	STATUS	n/a	n/a	S  9
+357.6340000000	n/a	n/a	STATUS	n/a	n/a	R 12
+358.5660000000	n/a	n/a	STATUS	n/a	n/a	S  7
+358.5660000000	n/a	n/a	STATUS	n/a	n/a	R  6
+361.7260000000	n/a	n/a	STATUS	n/a	n/a	S 12
+362.3700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+363.8060000000	n/a	n/a	STATUS	n/a	n/a	S  8
+363.8060000000	n/a	n/a	STATUS	n/a	n/a	R 12
+364.7780000000	n/a	n/a	STATUS	n/a	n/a	S  5
+364.7780000000	n/a	n/a	STATUS	n/a	n/a	R  6
+367.5540000000	n/a	n/a	STATUS	n/a	n/a	S 11
+367.9660000000	n/a	n/a	Left Button	n/a	n/a	S 10
+369.0580000000	n/a	n/a	STATUS	n/a	n/a	S  8
+369.0580000000	n/a	n/a	STATUS	n/a	n/a	R 12
+370.0820000000	n/a	n/a	STATUS	n/a	n/a	S  6
+370.0820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+373.1440000000	n/a	n/a	STATUS	n/a	n/a	S 14
+373.6660000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+373.6660000000	n/a	n/a	STATUS	n/a	n/a	R  1
+375.0960000000	n/a	n/a	STATUS	n/a	n/a	S  9
+375.0960000000	n/a	n/a	STATUS	n/a	n/a	R 12
+376.0980000000	n/a	n/a	STATUS	n/a	n/a	S  8
+376.0980000000	n/a	n/a	STATUS	n/a	n/a	R  6
+378.6480000000	n/a	n/a	STATUS	n/a	n/a	S 12
+379.3100000000	n/a	n/a	Left Button	n/a	n/a	S 10
+380.2060000000	n/a	n/a	STATUS	n/a	n/a	S  8
+380.2060000000	n/a	n/a	STATUS	n/a	n/a	R 12
+381.1680000000	n/a	n/a	STATUS	n/a	n/a	S  6
+381.1680000000	n/a	n/a	STATUS	n/a	n/a	R  6
+384.0720000000	n/a	n/a	STATUS	n/a	n/a	S 12
+384.6540000000	n/a	n/a	Left Button	n/a	n/a	S 10
+385.8660000000	n/a	n/a	STATUS	n/a	n/a	S  8
+385.8660000000	n/a	n/a	STATUS	n/a	n/a	R 12
+386.6680000000	n/a	n/a	STATUS	n/a	n/a	S  5
+386.6680000000	n/a	n/a	STATUS	n/a	n/a	R  6
+389.5240000000	n/a	n/a	STATUS	n/a	n/a	S 13
+390.1500000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+390.1500000000	n/a	n/a	STATUS	n/a	n/a	R  1
+391.1520000000	n/a	n/a	STATUS	n/a	n/a	S  9
+391.1520000000	n/a	n/a	STATUS	n/a	n/a	R 12
+391.9740000000	n/a	n/a	STATUS	n/a	n/a	S  7
+391.9740000000	n/a	n/a	STATUS	n/a	n/a	R  6
+394.6160000000	n/a	n/a	STATUS	n/a	n/a	S 13
+395.0980000000	n/a	n/a	Left Button	n/a	n/a	S 10
+395.9080000000	n/a	n/a	STATUS	n/a	n/a	S  9
+395.9080000000	n/a	n/a	STATUS	n/a	n/a	R 12
+396.7720000000	n/a	n/a	STATUS	n/a	n/a	S  8
+396.7720000000	n/a	n/a	STATUS	n/a	n/a	R  6
+400.0840000000	n/a	n/a	STATUS	n/a	n/a	S 12
+400.6020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+402.1220000000	n/a	n/a	STATUS	n/a	n/a	S  8
+402.1220000000	n/a	n/a	STATUS	n/a	n/a	R 12
+403.0740000000	n/a	n/a	STATUS	n/a	n/a	S  6
+403.0740000000	n/a	n/a	STATUS	n/a	n/a	R  6
+405.8920000000	n/a	n/a	STATUS	n/a	n/a	S 13
+406.3500000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+406.3500000000	n/a	n/a	STATUS	n/a	n/a	R  1
+407.4660000000	n/a	n/a	STATUS	n/a	n/a	S  9
+407.4660000000	n/a	n/a	STATUS	n/a	n/a	R 12
+408.3380000000	n/a	n/a	STATUS	n/a	n/a	S  7
+408.3380000000	n/a	n/a	STATUS	n/a	n/a	R  6
+411.5100000000	n/a	n/a	STATUS	n/a	n/a	S 13
+412.0520000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+412.0520000000	n/a	n/a	STATUS	n/a	n/a	R  1
+413.4420000000	n/a	n/a	STATUS	n/a	n/a	S  9
+413.4420000000	n/a	n/a	STATUS	n/a	n/a	R 12
+414.3660000000	n/a	n/a	STATUS	n/a	n/a	S  7
+414.3660000000	n/a	n/a	STATUS	n/a	n/a	R  6
+417.3160000000	n/a	n/a	STATUS	n/a	n/a	S 12
+417.8340000000	n/a	n/a	Left Button	n/a	n/a	S 10
+419.0520000000	n/a	n/a	STATUS	n/a	n/a	S  8
+419.0520000000	n/a	n/a	STATUS	n/a	n/a	R 12
+419.8740000000	n/a	n/a	STATUS	n/a	n/a	S  6
+419.8740000000	n/a	n/a	STATUS	n/a	n/a	R  6
+422.8420000000	n/a	n/a	STATUS	n/a	n/a	S 13
+423.6200000000	n/a	n/a	Left Button	n/a	n/a	S 10
+424.7560000000	n/a	n/a	STATUS	n/a	n/a	S  9
+424.7560000000	n/a	n/a	STATUS	n/a	n/a	R 12
+425.5580000000	n/a	n/a	STATUS	n/a	n/a	S  8
+425.5580000000	n/a	n/a	STATUS	n/a	n/a	R  6
+428.8260000000	n/a	n/a	STATUS	n/a	n/a	S 13
+429.4080000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+429.4080000000	n/a	n/a	STATUS	n/a	n/a	R  1
+430.8240000000	n/a	n/a	STATUS	n/a	n/a	S  9
+430.8240000000	n/a	n/a	STATUS	n/a	n/a	R 12
+431.7160000000	n/a	n/a	STATUS	n/a	n/a	S  7
+431.7160000000	n/a	n/a	STATUS	n/a	n/a	R  6
+434.8820000000	n/a	n/a	STATUS	n/a	n/a	S 11
+435.4600000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+435.4600000000	n/a	n/a	STATUS	n/a	n/a	R  1
+436.8640000000	n/a	n/a	STATUS	n/a	n/a	S  8
+436.8640000000	n/a	n/a	STATUS	n/a	n/a	R 12
+437.8780000000	n/a	n/a	STATUS	n/a	n/a	S  5
+437.8780000000	n/a	n/a	STATUS	n/a	n/a	R  6
+440.9500000000	n/a	n/a	STATUS	n/a	n/a	S 12
+441.4880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+442.9180000000	n/a	n/a	STATUS	n/a	n/a	S  8
+442.9180000000	n/a	n/a	STATUS	n/a	n/a	R 12
+443.9220000000	n/a	n/a	STATUS	n/a	n/a	S  5
+443.9220000000	n/a	n/a	STATUS	n/a	n/a	R  6
+446.4800000000	n/a	n/a	STATUS	n/a	n/a	S 13
+447.0600000000	n/a	n/a	Left Button	n/a	n/a	S 10
+447.9680000000	n/a	n/a	STATUS	n/a	n/a	S  9
+447.9680000000	n/a	n/a	STATUS	n/a	n/a	R 12
+448.8700000000	n/a	n/a	STATUS	n/a	n/a	S  8
+448.8700000000	n/a	n/a	STATUS	n/a	n/a	R  6
+451.6200000000	n/a	n/a	STATUS	n/a	n/a	S 12
+452.1760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+453.1740000000	n/a	n/a	STATUS	n/a	n/a	S  8
+453.1740000000	n/a	n/a	STATUS	n/a	n/a	R 12
+454.1460000000	n/a	n/a	STATUS	n/a	n/a	S  6
+454.1460000000	n/a	n/a	STATUS	n/a	n/a	R  6
+457.2500000000	n/a	n/a	STATUS	n/a	n/a	S 13
+457.8000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+459.2240000000	n/a	n/a	STATUS	n/a	n/a	S  9
+459.2240000000	n/a	n/a	STATUS	n/a	n/a	R 12
+460.1760000000	n/a	n/a	STATUS	n/a	n/a	S  8
+460.1760000000	n/a	n/a	STATUS	n/a	n/a	R  6
+462.8040000000	n/a	n/a	STATUS	n/a	n/a	S 11
+463.3800000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+463.3800000000	n/a	n/a	STATUS	n/a	n/a	R  1
+464.3060000000	n/a	n/a	STATUS	n/a	n/a	S  8
+464.3060000000	n/a	n/a	STATUS	n/a	n/a	R 12
+465.2180000000	n/a	n/a	STATUS	n/a	n/a	S  5
+465.2180000000	n/a	n/a	STATUS	n/a	n/a	R  6
+468.0660000000	n/a	n/a	STATUS	n/a	n/a	S 12
+468.6000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+469.7080000000	n/a	n/a	STATUS	n/a	n/a	S  8
+469.7080000000	n/a	n/a	STATUS	n/a	n/a	R 12
+470.6100000000	n/a	n/a	STATUS	n/a	n/a	S  5
+470.6100000000	n/a	n/a	STATUS	n/a	n/a	R  6
+473.2520000000	n/a	n/a	STATUS	n/a	n/a	S 13
+473.7040000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+473.7040000000	n/a	n/a	STATUS	n/a	n/a	R  1
+474.5960000000	n/a	n/a	STATUS	n/a	n/a	S  9
+474.5960000000	n/a	n/a	STATUS	n/a	n/a	R 12
+475.3980000000	n/a	n/a	STATUS	n/a	n/a	S  7
+475.3980000000	n/a	n/a	STATUS	n/a	n/a	R  6
+478.5020000000	n/a	n/a	STATUS	n/a	n/a	S 13
+479.2080000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+479.2080000000	n/a	n/a	STATUS	n/a	n/a	R  1
+480.4600000000	n/a	n/a	STATUS	n/a	n/a	S  9
+480.4600000000	n/a	n/a	STATUS	n/a	n/a	R 12
+481.4720000000	n/a	n/a	STATUS	n/a	n/a	S  8
+481.4720000000	n/a	n/a	STATUS	n/a	n/a	R  6
+484.0340000000	n/a	n/a	STATUS	n/a	n/a	S 14
+484.5840000000	n/a	n/a	Left Button	n/a	n/a	S 10
+485.5040000000	n/a	n/a	STATUS	n/a	n/a	S  9
+485.5040000000	n/a	n/a	STATUS	n/a	n/a	R 12
+486.3580000000	n/a	n/a	STATUS	n/a	n/a	S  7
+486.3580000000	n/a	n/a	STATUS	n/a	n/a	R  6
+489.1920000000	n/a	n/a	STATUS	n/a	n/a	S 12
+489.7000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+490.7340000000	n/a	n/a	STATUS	n/a	n/a	S  8
+490.7340000000	n/a	n/a	STATUS	n/a	n/a	R 12
+491.5460000000	n/a	n/a	STATUS	n/a	n/a	S  5
+491.5460000000	n/a	n/a	STATUS	n/a	n/a	R  6
+494.7160000000	n/a	n/a	STATUS	n/a	n/a	S 14
+495.2760000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+495.2760000000	n/a	n/a	STATUS	n/a	n/a	R  1
+496.6060000000	n/a	n/a	STATUS	n/a	n/a	S  9
+496.6060000000	n/a	n/a	STATUS	n/a	n/a	R 12
+497.5180000000	n/a	n/a	STATUS	n/a	n/a	S  8
+497.5180000000	n/a	n/a	STATUS	n/a	n/a	R  6
+500.6420000000	n/a	n/a	STATUS	n/a	n/a	S 12
+501.1760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+502.5580000000	n/a	n/a	STATUS	n/a	n/a	S  8
+502.5580000000	n/a	n/a	STATUS	n/a	n/a	R 12
+503.3800000000	n/a	n/a	STATUS	n/a	n/a	S  5
+503.3800000000	n/a	n/a	STATUS	n/a	n/a	R  6
+506.4960000000	n/a	n/a	STATUS	n/a	n/a	S 13
+507.1760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+508.4600000000	n/a	n/a	STATUS	n/a	n/a	S  9
+508.4600000000	n/a	n/a	STATUS	n/a	n/a	R 12
+509.5120000000	n/a	n/a	STATUS	n/a	n/a	S  8
+509.5120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+512.4480000000	n/a	n/a	STATUS	n/a	n/a	S 13
+512.9840000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+512.9840000000	n/a	n/a	STATUS	n/a	n/a	R  1
+514.3180000000	n/a	n/a	STATUS	n/a	n/a	S  9
+514.3180000000	n/a	n/a	STATUS	n/a	n/a	R 12
+515.2600000000	n/a	n/a	STATUS	n/a	n/a	S  7
+515.2600000000	n/a	n/a	STATUS	n/a	n/a	R  6
+517.8720000000	n/a	n/a	STATUS	n/a	n/a	S 14
+518.4120000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+518.4120000000	n/a	n/a	STATUS	n/a	n/a	R  1
+519.3120000000	n/a	n/a	STATUS	n/a	n/a	S  9
+519.3120000000	n/a	n/a	STATUS	n/a	n/a	R 12
+520.3440000000	n/a	n/a	STATUS	n/a	n/a	S  8
+520.3440000000	n/a	n/a	STATUS	n/a	n/a	R  6
+523.0820000000	n/a	n/a	STATUS	n/a	n/a	S 11
+523.7440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+524.8600000000	n/a	n/a	STATUS	n/a	n/a	S  8
+524.8600000000	n/a	n/a	STATUS	n/a	n/a	R 12
+525.7920000000	n/a	n/a	STATUS	n/a	n/a	S  6
+525.7920000000	n/a	n/a	STATUS	n/a	n/a	R  6
+528.5760000000	n/a	n/a	STATUS	n/a	n/a	S 11
+529.3080000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+529.3080000000	n/a	n/a	STATUS	n/a	n/a	R  1
+530.3700000000	n/a	n/a	STATUS	n/a	n/a	S  8
+530.3700000000	n/a	n/a	STATUS	n/a	n/a	R 12
+531.1820000000	n/a	n/a	STATUS	n/a	n/a	S  6
+531.1820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+533.8760000000	n/a	n/a	STATUS	n/a	n/a	S 11
+534.3080000000	n/a	n/a	Left Button	n/a	n/a	S 10
+535.1580000000	n/a	n/a	STATUS	n/a	n/a	S  8
+535.1580000000	n/a	n/a	STATUS	n/a	n/a	R 12
+536.0020000000	n/a	n/a	STATUS	n/a	n/a	S  6
+536.0020000000	n/a	n/a	STATUS	n/a	n/a	R  6
+539.1720000000	n/a	n/a	STATUS	n/a	n/a	S 13
+539.7280000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+539.7280000000	n/a	n/a	STATUS	n/a	n/a	R  1
+541.0880000000	n/a	n/a	STATUS	n/a	n/a	S  9
+541.0880000000	n/a	n/a	STATUS	n/a	n/a	R 12
+542.0700000000	n/a	n/a	STATUS	n/a	n/a	S  7
+542.0700000000	n/a	n/a	STATUS	n/a	n/a	R  6
+544.9760000000	n/a	n/a	STATUS	n/a	n/a	S 13
+545.4880000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+545.4880000000	n/a	n/a	STATUS	n/a	n/a	R  1
+546.7220000000	n/a	n/a	STATUS	n/a	n/a	S  9
+546.7220000000	n/a	n/a	STATUS	n/a	n/a	R 12
+547.6040000000	n/a	n/a	STATUS	n/a	n/a	S  7
+547.6040000000	n/a	n/a	STATUS	n/a	n/a	R  6
+550.8380000000	n/a	n/a	STATUS	n/a	n/a	S 14
+551.4760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+552.9380000000	n/a	n/a	STATUS	n/a	n/a	S  9
+552.9380000000	n/a	n/a	STATUS	n/a	n/a	R 12
+553.7920000000	n/a	n/a	STATUS	n/a	n/a	S  7
+553.7920000000	n/a	n/a	STATUS	n/a	n/a	R  6
+556.5500000000	n/a	n/a	STATUS	n/a	n/a	S 12
+556.9800000000	n/a	n/a	Left Button	n/a	n/a	S 10
+557.9360000000	n/a	n/a	STATUS	n/a	n/a	S  8
+557.9360000000	n/a	n/a	STATUS	n/a	n/a	R 12
+558.7980000000	n/a	n/a	STATUS	n/a	n/a	S  5
+558.7980000000	n/a	n/a	STATUS	n/a	n/a	R  6
+561.4640000000	n/a	n/a	STATUS	n/a	n/a	S 11
+561.8640000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+561.8640000000	n/a	n/a	STATUS	n/a	n/a	R  1
+562.7360000000	n/a	n/a	STATUS	n/a	n/a	S  8
+562.7360000000	n/a	n/a	STATUS	n/a	n/a	R 12
+563.7580000000	n/a	n/a	STATUS	n/a	n/a	S  5
+563.7580000000	n/a	n/a	STATUS	n/a	n/a	R  6
+566.5900000000	n/a	n/a	STATUS	n/a	n/a	S 14
+567.1560000000	n/a	n/a	Left Button	n/a	n/a	S 10
+568.3560000000	n/a	n/a	STATUS	n/a	n/a	S  9
+568.3560000000	n/a	n/a	STATUS	n/a	n/a	R 12
+569.3280000000	n/a	n/a	STATUS	n/a	n/a	S  7
+569.3280000000	n/a	n/a	STATUS	n/a	n/a	R  6
+572.3600000000	n/a	n/a	STATUS	n/a	n/a	S 14
+572.7880000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+572.7880000000	n/a	n/a	STATUS	n/a	n/a	R  1
+574.1380000000	n/a	n/a	STATUS	n/a	n/a	S  9
+574.1380000000	n/a	n/a	STATUS	n/a	n/a	R 12
+575.0000000000	n/a	n/a	STATUS	n/a	n/a	S  7
+575.0000000000	n/a	n/a	STATUS	n/a	n/a	R  6
+578.2320000000	n/a	n/a	STATUS	n/a	n/a	S 11
+578.6840000000	n/a	n/a	Left Button	n/a	n/a	S 10
+580.1240000000	n/a	n/a	STATUS	n/a	n/a	S  8
+580.1240000000	n/a	n/a	STATUS	n/a	n/a	R 12
+581.1060000000	n/a	n/a	STATUS	n/a	n/a	S  6
+581.1060000000	n/a	n/a	STATUS	n/a	n/a	R  6
+584.0780000000	n/a	n/a	STATUS	n/a	n/a	S 11
+584.6120000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+584.6120000000	n/a	n/a	STATUS	n/a	n/a	R  1
+585.9100000000	n/a	n/a	STATUS	n/a	n/a	S  8
+585.9100000000	n/a	n/a	STATUS	n/a	n/a	R 12
+586.7520000000	n/a	n/a	STATUS	n/a	n/a	S  5
+586.7520000000	n/a	n/a	STATUS	n/a	n/a	R  6
+589.7300000000	n/a	n/a	STATUS	n/a	n/a	S 11
+590.2560000000	n/a	n/a	Left Button	n/a	n/a	S 10
+591.4200000000	n/a	n/a	STATUS	n/a	n/a	S  8
+591.4200000000	n/a	n/a	STATUS	n/a	n/a	R 12
+592.4320000000	n/a	n/a	STATUS	n/a	n/a	S  5
+592.4320000000	n/a	n/a	STATUS	n/a	n/a	R  6
+595.6040000000	n/a	n/a	STATUS	n/a	n/a	S 11
+596.0760000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+596.0760000000	n/a	n/a	STATUS	n/a	n/a	R  1
+597.6060000000	n/a	n/a	STATUS	n/a	n/a	S  8
+597.6060000000	n/a	n/a	STATUS	n/a	n/a	R 12
+598.4280000000	n/a	n/a	STATUS	n/a	n/a	S  5
+598.4280000000	n/a	n/a	STATUS	n/a	n/a	R  6
+601.0660000000	n/a	n/a	STATUS	n/a	n/a	S 12
+601.6780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+602.4860000000	n/a	n/a	STATUS	n/a	n/a	S  8
+602.4860000000	n/a	n/a	STATUS	n/a	n/a	R 12
+603.5080000000	n/a	n/a	STATUS	n/a	n/a	S  5
+603.5080000000	n/a	n/a	STATUS	n/a	n/a	R  6
+606.3140000000	n/a	n/a	STATUS	n/a	n/a	S 12
+606.9760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+608.1480000000	n/a	n/a	STATUS	n/a	n/a	S  8
+608.1480000000	n/a	n/a	STATUS	n/a	n/a	R 12
+609.0620000000	n/a	n/a	STATUS	n/a	n/a	S  5
+609.0620000000	n/a	n/a	STATUS	n/a	n/a	R  6
+612.3460000000	n/a	n/a	STATUS	n/a	n/a	S 14
+613.0980000000	n/a	n/a	Left Button	n/a	n/a	S 10
+614.6420000000	n/a	n/a	STATUS	n/a	n/a	S  9
+614.6420000000	n/a	n/a	STATUS	n/a	n/a	R 12
+615.6840000000	n/a	n/a	STATUS	n/a	n/a	S  7
+615.6840000000	n/a	n/a	STATUS	n/a	n/a	R  6
+618.1280000000	n/a	n/a	STATUS	n/a	n/a	S 14
+618.6700000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+618.6700000000	n/a	n/a	STATUS	n/a	n/a	R  1
+619.5020000000	n/a	n/a	STATUS	n/a	n/a	S  9
+619.5020000000	n/a	n/a	STATUS	n/a	n/a	R 12
+620.3740000000	n/a	n/a	STATUS	n/a	n/a	S  8
+620.3740000000	n/a	n/a	STATUS	n/a	n/a	R  6
+623.3060000000	n/a	n/a	STATUS	n/a	n/a	S 12
+623.8740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+625.0260000000	n/a	n/a	STATUS	n/a	n/a	S  8
+625.0260000000	n/a	n/a	STATUS	n/a	n/a	R 12
+625.8280000000	n/a	n/a	STATUS	n/a	n/a	S  5
+625.8280000000	n/a	n/a	STATUS	n/a	n/a	R  6
+629.2240000000	n/a	n/a	STATUS	n/a	n/a	S 12
+629.6940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+631.2400000000	n/a	n/a	STATUS	n/a	n/a	S  8
+631.2400000000	n/a	n/a	STATUS	n/a	n/a	R 12
+632.2720000000	n/a	n/a	STATUS	n/a	n/a	S  6
+632.2720000000	n/a	n/a	STATUS	n/a	n/a	R  6
+635.2000000000	n/a	n/a	STATUS	n/a	n/a	S 12
+635.6740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+636.9820000000	n/a	n/a	STATUS	n/a	n/a	S  8
+636.9820000000	n/a	n/a	STATUS	n/a	n/a	R 12
+637.8340000000	n/a	n/a	STATUS	n/a	n/a	S  6
+637.8340000000	n/a	n/a	STATUS	n/a	n/a	R  6
+640.5360000000	n/a	n/a	STATUS	n/a	n/a	S 14
+641.1580000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+641.1580000000	n/a	n/a	STATUS	n/a	n/a	R  1
+642.0580000000	n/a	n/a	STATUS	n/a	n/a	S  9
+642.0580000000	n/a	n/a	STATUS	n/a	n/a	R 12
+643.0720000000	n/a	n/a	STATUS	n/a	n/a	S  8
+643.0720000000	n/a	n/a	STATUS	n/a	n/a	R  6
+645.6700000000	n/a	n/a	STATUS	n/a	n/a	S 13
+646.1500000000	n/a	n/a	Left Button	n/a	n/a	S 10
+647.1080000000	n/a	n/a	STATUS	n/a	n/a	S  9
+647.1080000000	n/a	n/a	STATUS	n/a	n/a	R 12
+648.1100000000	n/a	n/a	STATUS	n/a	n/a	S  7
+648.1100000000	n/a	n/a	STATUS	n/a	n/a	R  6
+651.2440000000	n/a	n/a	STATUS	n/a	n/a	S 12
+651.8780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+653.3580000000	n/a	n/a	STATUS	n/a	n/a	S  8
+653.3580000000	n/a	n/a	STATUS	n/a	n/a	R 12
+654.2120000000	n/a	n/a	STATUS	n/a	n/a	S  5
+654.2120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+656.9580000000	n/a	n/a	STATUS	n/a	n/a	S 14
+657.5140000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+657.5140000000	n/a	n/a	STATUS	n/a	n/a	R  1
+658.4600000000	n/a	n/a	STATUS	n/a	n/a	S  9
+658.4600000000	n/a	n/a	STATUS	n/a	n/a	R 12
+659.3920000000	n/a	n/a	STATUS	n/a	n/a	S  8
+659.3920000000	n/a	n/a	STATUS	n/a	n/a	R  6
+662.4820000000	n/a	n/a	STATUS	n/a	n/a	S 12
+663.1340000000	n/a	n/a	Left Button	n/a	n/a	S 10
+664.5020000000	n/a	n/a	STATUS	n/a	n/a	S  8
+664.5020000000	n/a	n/a	STATUS	n/a	n/a	R 12
+665.3440000000	n/a	n/a	STATUS	n/a	n/a	S  5
+665.3440000000	n/a	n/a	STATUS	n/a	n/a	R  6
+668.5040000000	n/a	n/a	STATUS	n/a	n/a	S 14
+668.9820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+670.3300000000	n/a	n/a	STATUS	n/a	n/a	S  9
+670.3300000000	n/a	n/a	STATUS	n/a	n/a	R 12
+671.3220000000	n/a	n/a	STATUS	n/a	n/a	S  7
+671.3220000000	n/a	n/a	STATUS	n/a	n/a	R  6
+674.0020000000	n/a	n/a	STATUS	n/a	n/a	S 14
+674.5420000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+674.5420000000	n/a	n/a	STATUS	n/a	n/a	R  1
+675.5620000000	n/a	n/a	STATUS	n/a	n/a	S  9
+675.5620000000	n/a	n/a	STATUS	n/a	n/a	R 12
+676.3840000000	n/a	n/a	STATUS	n/a	n/a	S  8
+676.3840000000	n/a	n/a	STATUS	n/a	n/a	R  6
+679.7200000000	n/a	n/a	STATUS	n/a	n/a	S 11
+680.2900000000	n/a	n/a	Left Button	n/a	n/a	S 10
+681.7940000000	n/a	n/a	STATUS	n/a	n/a	S  8
+681.7940000000	n/a	n/a	STATUS	n/a	n/a	R 12
+682.6060000000	n/a	n/a	STATUS	n/a	n/a	S  6
+682.6060000000	n/a	n/a	STATUS	n/a	n/a	R  6
+685.3100000000	n/a	n/a	STATUS	n/a	n/a	S 14
+685.6340000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+685.6340000000	n/a	n/a	STATUS	n/a	n/a	R  1
+686.4960000000	n/a	n/a	STATUS	n/a	n/a	S  9
+686.4960000000	n/a	n/a	STATUS	n/a	n/a	R 12
+687.4780000000	n/a	n/a	STATUS	n/a	n/a	S  8
+687.4780000000	n/a	n/a	STATUS	n/a	n/a	R  6
+690.6620000000	n/a	n/a	STATUS	n/a	n/a	S 12
+691.0660000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+691.0660000000	n/a	n/a	STATUS	n/a	n/a	R  1
+692.5780000000	n/a	n/a	STATUS	n/a	n/a	S  8
+692.5780000000	n/a	n/a	STATUS	n/a	n/a	R 12
+693.4600000000	n/a	n/a	STATUS	n/a	n/a	S  6
+693.4600000000	n/a	n/a	STATUS	n/a	n/a	R  6
+696.5860000000	n/a	n/a	STATUS	n/a	n/a	S 11
+697.1540000000	n/a	n/a	Left Button	n/a	n/a	S 10
+698.5080000000	n/a	n/a	STATUS	n/a	n/a	S  8
+698.5080000000	n/a	n/a	STATUS	n/a	n/a	R 12
+699.5020000000	n/a	n/a	STATUS	n/a	n/a	S  6
+699.5020000000	n/a	n/a	STATUS	n/a	n/a	R  6
+702.0240000000	n/a	n/a	STATUS	n/a	n/a	S 14
+702.4340000000	n/a	n/a	Left Button	n/a	n/a	S 10
+703.2960000000	n/a	n/a	STATUS	n/a	n/a	S  9
+703.2960000000	n/a	n/a	STATUS	n/a	n/a	R 12
+704.1680000000	n/a	n/a	STATUS	n/a	n/a	S  7
+704.1680000000	n/a	n/a	STATUS	n/a	n/a	R  6
+707.1540000000	n/a	n/a	STATUS	n/a	n/a	S 12
+707.6500000000	n/a	n/a	Left Button	n/a	n/a	S 10
+708.8540000000	n/a	n/a	STATUS	n/a	n/a	S  8
+708.8540000000	n/a	n/a	STATUS	n/a	n/a	R 12
+709.7780000000	n/a	n/a	STATUS	n/a	n/a	S  5
+709.7780000000	n/a	n/a	STATUS	n/a	n/a	R  6
+712.8100000000	n/a	n/a	STATUS	n/a	n/a	S 13
+713.3980000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+713.3980000000	n/a	n/a	STATUS	n/a	n/a	R  1
+714.6980000000	n/a	n/a	STATUS	n/a	n/a	S  9
+714.6980000000	n/a	n/a	STATUS	n/a	n/a	R 12
+715.6900000000	n/a	n/a	STATUS	n/a	n/a	S  7
+715.6900000000	n/a	n/a	STATUS	n/a	n/a	R  6
+718.5320000000	n/a	n/a	STATUS	n/a	n/a	S 14
+719.1700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+720.3480000000	n/a	n/a	STATUS	n/a	n/a	S  9
+720.3480000000	n/a	n/a	STATUS	n/a	n/a	R 12
+721.2420000000	n/a	n/a	STATUS	n/a	n/a	S  7
+721.2420000000	n/a	n/a	STATUS	n/a	n/a	R  6
+724.4420000000	n/a	n/a	STATUS	n/a	n/a	S 11
+724.9220000000	n/a	n/a	Left Button	n/a	n/a	S 10
+726.3600000000	n/a	n/a	STATUS	n/a	n/a	S  8
+726.3600000000	n/a	n/a	STATUS	n/a	n/a	R 12
+727.3040000000	n/a	n/a	STATUS	n/a	n/a	S  6
+727.3040000000	n/a	n/a	STATUS	n/a	n/a	R  6
+730.5000000000	n/a	n/a	STATUS	n/a	n/a	S 11
+730.9260000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+730.9260000000	n/a	n/a	STATUS	n/a	n/a	R  1
+732.4100000000	n/a	n/a	STATUS	n/a	n/a	S  8
+732.4100000000	n/a	n/a	STATUS	n/a	n/a	R 12
+733.2420000000	n/a	n/a	STATUS	n/a	n/a	S  5
+733.2420000000	n/a	n/a	STATUS	n/a	n/a	R  6
+736.5180000000	n/a	n/a	STATUS	n/a	n/a	S 14
+737.0180000000	n/a	n/a	Left Button	n/a	n/a	S 10
+738.4720000000	n/a	n/a	STATUS	n/a	n/a	S  9
+738.4720000000	n/a	n/a	STATUS	n/a	n/a	R 12
+739.5260000000	n/a	n/a	STATUS	n/a	n/a	S  8
+739.5260000000	n/a	n/a	STATUS	n/a	n/a	R  6
+742.0520000000	n/a	n/a	STATUS	n/a	n/a	S 14
+742.6660000000	n/a	n/a	Left Button	n/a	n/a	S 10
+743.5900000000	n/a	n/a	STATUS	n/a	n/a	S  9
+743.5900000000	n/a	n/a	STATUS	n/a	n/a	R 12
+744.5320000000	n/a	n/a	STATUS	n/a	n/a	S  8
+744.5320000000	n/a	n/a	STATUS	n/a	n/a	R  6
+747.6600000000	n/a	n/a	STATUS	n/a	n/a	S 14
+748.1700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+749.5860000000	n/a	n/a	STATUS	n/a	n/a	S  9
+749.5860000000	n/a	n/a	STATUS	n/a	n/a	R 12
+750.5980000000	n/a	n/a	STATUS	n/a	n/a	S  7
+750.5980000000	n/a	n/a	STATUS	n/a	n/a	R  6
+753.2520000000	n/a	n/a	STATUS	n/a	n/a	S 14
+753.9820000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+753.9820000000	n/a	n/a	STATUS	n/a	n/a	R  1
+754.9940000000	n/a	n/a	STATUS	n/a	n/a	S  9
+754.9940000000	n/a	n/a	STATUS	n/a	n/a	R 12
+755.8460000000	n/a	n/a	STATUS	n/a	n/a	S  8
+755.8460000000	n/a	n/a	STATUS	n/a	n/a	R  6
+759.1480000000	n/a	n/a	STATUS	n/a	n/a	S 13
+759.7220000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+759.7220000000	n/a	n/a	STATUS	n/a	n/a	R  1
+761.2200000000	n/a	n/a	STATUS	n/a	n/a	S  9
+761.2200000000	n/a	n/a	STATUS	n/a	n/a	R 12
+762.0520000000	n/a	n/a	STATUS	n/a	n/a	S  7
+762.0520000000	n/a	n/a	STATUS	n/a	n/a	R  6
+764.6800000000	n/a	n/a	STATUS	n/a	n/a	S 14
+765.3300000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+765.3300000000	n/a	n/a	STATUS	n/a	n/a	R  1
+766.1360000000	n/a	n/a	STATUS	n/a	n/a	S  9
+766.1360000000	n/a	n/a	STATUS	n/a	n/a	R 12
+767.1080000000	n/a	n/a	STATUS	n/a	n/a	S  7
+767.1080000000	n/a	n/a	STATUS	n/a	n/a	R  6
+770.3080000000	n/a	n/a	STATUS	n/a	n/a	S 11
+770.9820000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+770.9820000000	n/a	n/a	STATUS	n/a	n/a	R  1
+772.4980000000	n/a	n/a	STATUS	n/a	n/a	S  8
+772.4980000000	n/a	n/a	STATUS	n/a	n/a	R 12
+773.5200000000	n/a	n/a	STATUS	n/a	n/a	S  5
+773.5200000000	n/a	n/a	STATUS	n/a	n/a	R  6
+775.9820000000	n/a	n/a	STATUS	n/a	n/a	S 14
+776.5740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+777.4040000000	n/a	n/a	STATUS	n/a	n/a	S  9
+777.4040000000	n/a	n/a	STATUS	n/a	n/a	R 12
+778.3860000000	n/a	n/a	STATUS	n/a	n/a	S  7
+778.3860000000	n/a	n/a	STATUS	n/a	n/a	R  6
+781.1720000000	n/a	n/a	STATUS	n/a	n/a	S 14
+781.7020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+782.8140000000	n/a	n/a	STATUS	n/a	n/a	S  9
+782.8140000000	n/a	n/a	STATUS	n/a	n/a	R 12
+783.7160000000	n/a	n/a	STATUS	n/a	n/a	S  7
+783.7160000000	n/a	n/a	STATUS	n/a	n/a	R  6
+786.5800000000	n/a	n/a	STATUS	n/a	n/a	S 11
+787.1020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+788.2140000000	n/a	n/a	STATUS	n/a	n/a	S  8
+788.2140000000	n/a	n/a	STATUS	n/a	n/a	R 12
+789.1460000000	n/a	n/a	STATUS	n/a	n/a	S  6
+789.1460000000	n/a	n/a	STATUS	n/a	n/a	R  6
+792.1020000000	n/a	n/a	STATUS	n/a	n/a	S 12
+792.5520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+793.7880000000	n/a	n/a	STATUS	n/a	n/a	S  8
+793.7880000000	n/a	n/a	STATUS	n/a	n/a	R 12
+794.6300000000	n/a	n/a	STATUS	n/a	n/a	S  5
+794.6300000000	n/a	n/a	STATUS	n/a	n/a	R  6
+797.3880000000	n/a	n/a	STATUS	n/a	n/a	S 14
+797.9080000000	n/a	n/a	Left Button	n/a	n/a	S 10
+798.8560000000	n/a	n/a	STATUS	n/a	n/a	S  9
+798.8560000000	n/a	n/a	STATUS	n/a	n/a	R 12
+799.8000000000	n/a	n/a	STATUS	n/a	n/a	S  8
+799.8000000000	n/a	n/a	STATUS	n/a	n/a	R  6
+802.8220000000	n/a	n/a	STATUS	n/a	n/a	S 14
+803.2920000000	n/a	n/a	Left Button	n/a	n/a	S 10
+804.6040000000	n/a	n/a	STATUS	n/a	n/a	S  9
+804.6040000000	n/a	n/a	STATUS	n/a	n/a	R 12
+805.4880000000	n/a	n/a	STATUS	n/a	n/a	S  7
+805.4880000000	n/a	n/a	STATUS	n/a	n/a	R  6
+808.3300000000	n/a	n/a	STATUS	n/a	n/a	S 11
+808.8800000000	n/a	n/a	Left Button	n/a	n/a	S 10
+809.9520000000	n/a	n/a	STATUS	n/a	n/a	S  8
+809.9520000000	n/a	n/a	STATUS	n/a	n/a	R 12
+810.8740000000	n/a	n/a	STATUS	n/a	n/a	S  6
+810.8740000000	n/a	n/a	STATUS	n/a	n/a	R  6
+813.9380000000	n/a	n/a	STATUS	n/a	n/a	S 11
+814.4600000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+814.4600000000	n/a	n/a	STATUS	n/a	n/a	R  1
+815.7940000000	n/a	n/a	STATUS	n/a	n/a	S  8
+815.7940000000	n/a	n/a	STATUS	n/a	n/a	R 12
+816.5960000000	n/a	n/a	STATUS	n/a	n/a	S  5
+816.5960000000	n/a	n/a	STATUS	n/a	n/a	R  6
+819.6500000000	n/a	n/a	STATUS	n/a	n/a	S 13
+820.2840000000	n/a	n/a	Left Button	n/a	n/a	S 10
+821.4880000000	n/a	n/a	STATUS	n/a	n/a	S  9
+821.4880000000	n/a	n/a	STATUS	n/a	n/a	R 12
+822.4500000000	n/a	n/a	STATUS	n/a	n/a	S  8
+822.4500000000	n/a	n/a	STATUS	n/a	n/a	R  6
+825.4940000000	n/a	n/a	STATUS	n/a	n/a	S 13
+826.3760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+827.7280000000	n/a	n/a	STATUS	n/a	n/a	S  9
+827.7280000000	n/a	n/a	STATUS	n/a	n/a	R 12
+828.7820000000	n/a	n/a	STATUS	n/a	n/a	S  8
+828.7820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+831.4620000000	n/a	n/a	STATUS	n/a	n/a	S 12
+832.1360000000	n/a	n/a	Left Button	n/a	n/a	S 10
+833.2160000000	n/a	n/a	STATUS	n/a	n/a	S  8
+833.2160000000	n/a	n/a	STATUS	n/a	n/a	R 12
+834.1880000000	n/a	n/a	STATUS	n/a	n/a	S  5
+834.1880000000	n/a	n/a	STATUS	n/a	n/a	R  6
+836.7960000000	n/a	n/a	STATUS	n/a	n/a	S 14
+837.5280000000	n/a	n/a	Left Button	n/a	n/a	S 10
+838.4540000000	n/a	n/a	STATUS	n/a	n/a	S  9
+838.4540000000	n/a	n/a	STATUS	n/a	n/a	R 12
+839.3480000000	n/a	n/a	STATUS	n/a	n/a	S  7
+839.3480000000	n/a	n/a	STATUS	n/a	n/a	R  6
+842.0980000000	n/a	n/a	STATUS	n/a	n/a	S 11
+842.8360000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+842.8360000000	n/a	n/a	STATUS	n/a	n/a	R  1
+843.8260000000	n/a	n/a	STATUS	n/a	n/a	S  8
+843.8260000000	n/a	n/a	STATUS	n/a	n/a	R 12
+844.7080000000	n/a	n/a	STATUS	n/a	n/a	S  5
+844.7080000000	n/a	n/a	STATUS	n/a	n/a	R  6
+847.9760000000	n/a	n/a	STATUS	n/a	n/a	S 13
+848.6320000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+848.6320000000	n/a	n/a	STATUS	n/a	n/a	R  1
+850.1280000000	n/a	n/a	STATUS	n/a	n/a	S  9
+850.1280000000	n/a	n/a	STATUS	n/a	n/a	R 12
+851.0500000000	n/a	n/a	STATUS	n/a	n/a	S  7
+851.0500000000	n/a	n/a	STATUS	n/a	n/a	R  6
+854.1380000000	n/a	n/a	STATUS	n/a	n/a	S 13
+854.7280000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+854.7280000000	n/a	n/a	STATUS	n/a	n/a	R  1
+856.0840000000	n/a	n/a	STATUS	n/a	n/a	S  9
+856.0840000000	n/a	n/a	STATUS	n/a	n/a	R 12
+857.1060000000	n/a	n/a	STATUS	n/a	n/a	S  8
+857.1060000000	n/a	n/a	STATUS	n/a	n/a	R  6
+860.0060000000	n/a	n/a	STATUS	n/a	n/a	S 13
+860.5320000000	n/a	n/a	Left Button	n/a	n/a	S 10
+861.8000000000	n/a	n/a	STATUS	n/a	n/a	S  9
+861.8000000000	n/a	n/a	STATUS	n/a	n/a	R 12
+862.6720000000	n/a	n/a	STATUS	n/a	n/a	S  8
+862.6720000000	n/a	n/a	STATUS	n/a	n/a	R  6
+865.9320000000	n/a	n/a	STATUS	n/a	n/a	S 11
+866.5480000000	n/a	n/a	Left Button	n/a	n/a	S 10
+868.0260000000	n/a	n/a	STATUS	n/a	n/a	S  8
+868.0260000000	n/a	n/a	STATUS	n/a	n/a	R 12
+869.0780000000	n/a	n/a	STATUS	n/a	n/a	S  6
+869.0780000000	n/a	n/a	STATUS	n/a	n/a	R  6
+871.6300000000	n/a	n/a	STATUS	n/a	n/a	S 11
+872.1480000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+872.1480000000	n/a	n/a	STATUS	n/a	n/a	R  1
+873.0980000000	n/a	n/a	STATUS	n/a	n/a	S  8
+873.0980000000	n/a	n/a	STATUS	n/a	n/a	R 12
+874.0000000000	n/a	n/a	STATUS	n/a	n/a	S  6
+874.0000000000	n/a	n/a	STATUS	n/a	n/a	R  6
+876.6920000000	n/a	n/a	STATUS	n/a	n/a	S 11
+877.2680000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+877.2680000000	n/a	n/a	STATUS	n/a	n/a	R  1
+878.2080000000	n/a	n/a	STATUS	n/a	n/a	S  8
+878.2080000000	n/a	n/a	STATUS	n/a	n/a	R 12
+879.1120000000	n/a	n/a	STATUS	n/a	n/a	S  5
+879.1120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+882.0860000000	n/a	n/a	STATUS	n/a	n/a	S 14
+882.7680000000	n/a	n/a	Left Button	n/a	n/a	S 10
+883.9900000000	n/a	n/a	STATUS	n/a	n/a	S  9
+883.9900000000	n/a	n/a	STATUS	n/a	n/a	R 12
+884.8820000000	n/a	n/a	STATUS	n/a	n/a	S  8
+884.8820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+887.7500000000	n/a	n/a	STATUS	n/a	n/a	S 12
+888.2160000000	n/a	n/a	Left Button	n/a	n/a	S 10
+889.3200000000	n/a	n/a	STATUS	n/a	n/a	S  8
+889.3200000000	n/a	n/a	STATUS	n/a	n/a	R 12
+890.1240000000	n/a	n/a	STATUS	n/a	n/a	S  5
+890.1240000000	n/a	n/a	STATUS	n/a	n/a	R  6
+892.8520000000	n/a	n/a	STATUS	n/a	n/a	S 12
+893.3120000000	n/a	n/a	Left Button	n/a	n/a	S 10
+894.1880000000	n/a	n/a	STATUS	n/a	n/a	S  8
+894.1880000000	n/a	n/a	STATUS	n/a	n/a	R 12
+894.9900000000	n/a	n/a	STATUS	n/a	n/a	S  6
+894.9900000000	n/a	n/a	STATUS	n/a	n/a	R  6
+898.0380000000	n/a	n/a	STATUS	n/a	n/a	S 14
+898.6480000000	n/a	n/a	Left Button	n/a	n/a	S 10
+899.8420000000	n/a	n/a	STATUS	n/a	n/a	S  9
+899.8420000000	n/a	n/a	STATUS	n/a	n/a	R 12
+900.8160000000	n/a	n/a	STATUS	n/a	n/a	S  8
+900.8160000000	n/a	n/a	STATUS	n/a	n/a	R  6
+903.9360000000	n/a	n/a	STATUS	n/a	n/a	S 12
+904.4320000000	n/a	n/a	Left Button	n/a	n/a	S 10
+905.8700000000	n/a	n/a	STATUS	n/a	n/a	S  8
+905.8700000000	n/a	n/a	STATUS	n/a	n/a	R 12
+906.8240000000	n/a	n/a	STATUS	n/a	n/a	S  5
+906.8240000000	n/a	n/a	STATUS	n/a	n/a	R  6
+909.6840000000	n/a	n/a	STATUS	n/a	n/a	S 13
+910.2360000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+910.2360000000	n/a	n/a	STATUS	n/a	n/a	R  1
+911.3940000000	n/a	n/a	STATUS	n/a	n/a	S  9
+911.3940000000	n/a	n/a	STATUS	n/a	n/a	R 12
+912.3160000000	n/a	n/a	STATUS	n/a	n/a	S  7
+912.3160000000	n/a	n/a	STATUS	n/a	n/a	R  6
+915.5380000000	n/a	n/a	STATUS	n/a	n/a	S 13
+916.3640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+917.8540000000	n/a	n/a	STATUS	n/a	n/a	S  9
+917.8540000000	n/a	n/a	STATUS	n/a	n/a	R 12
+918.8760000000	n/a	n/a	STATUS	n/a	n/a	S  8
+918.8760000000	n/a	n/a	STATUS	n/a	n/a	R  6
+921.5640000000	n/a	n/a	STATUS	n/a	n/a	S 11
+922.3920000000	n/a	n/a	Left Button	n/a	n/a	S 10
+923.4480000000	n/a	n/a	STATUS	n/a	n/a	S  8
+923.4480000000	n/a	n/a	STATUS	n/a	n/a	R 12
+924.2600000000	n/a	n/a	STATUS	n/a	n/a	S  6
+924.2600000000	n/a	n/a	STATUS	n/a	n/a	R  6
+927.3680000000	n/a	n/a	STATUS	n/a	n/a	S 12
+928.0120000000	n/a	n/a	Left Button	n/a	n/a	S 10
+929.2800000000	n/a	n/a	STATUS	n/a	n/a	S  8
+929.2800000000	n/a	n/a	STATUS	n/a	n/a	R 12
+930.1720000000	n/a	n/a	STATUS	n/a	n/a	S  6
+930.1720000000	n/a	n/a	STATUS	n/a	n/a	R  6
+933.0800000000	n/a	n/a	STATUS	n/a	n/a	S 11
+934.1440000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+934.1440000000	n/a	n/a	STATUS	n/a	n/a	R  1
+935.2920000000	n/a	n/a	STATUS	n/a	n/a	S  8
+935.2920000000	n/a	n/a	STATUS	n/a	n/a	R 12
+936.2240000000	n/a	n/a	STATUS	n/a	n/a	S  5
+936.2240000000	n/a	n/a	STATUS	n/a	n/a	R  6
+939.0400000000	n/a	n/a	STATUS	n/a	n/a	S 11
+940.8800000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+940.8800000000	n/a	n/a	STATUS	n/a	n/a	R  1
+941.9740000000	n/a	n/a	STATUS	n/a	n/a	S  8
+941.9740000000	n/a	n/a	STATUS	n/a	n/a	R 12
+942.9860000000	n/a	n/a	STATUS	n/a	n/a	S  5
+942.9860000000	n/a	n/a	STATUS	n/a	n/a	R  6
+945.7440000000	n/a	n/a	STATUS	n/a	n/a	S 13
+947.2280000000	n/a	n/a	Left Button	n/a	n/a	S 10
+948.3440000000	n/a	n/a	STATUS	n/a	n/a	S  9
+948.3440000000	n/a	n/a	STATUS	n/a	n/a	R 12
+949.2160000000	n/a	n/a	STATUS	n/a	n/a	S  8
+949.2160000000	n/a	n/a	STATUS	n/a	n/a	R  6
+952.3260000000	n/a	n/a	STATUS	n/a	n/a	S 11
+953.1440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+954.4720000000	n/a	n/a	STATUS	n/a	n/a	S  8
+954.4720000000	n/a	n/a	STATUS	n/a	n/a	R 12
+955.4640000000	n/a	n/a	STATUS	n/a	n/a	S  5
+955.4640000000	n/a	n/a	STATUS	n/a	n/a	R  6
+958.1520000000	n/a	n/a	STATUS	n/a	n/a	S 14
+958.7960000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+958.7960000000	n/a	n/a	STATUS	n/a	n/a	R  1
+959.8200000000	n/a	n/a	STATUS	n/a	n/a	S  9
+959.8200000000	n/a	n/a	STATUS	n/a	n/a	R 12
+960.8620000000	n/a	n/a	STATUS	n/a	n/a	S  8
+960.8620000000	n/a	n/a	STATUS	n/a	n/a	R  6
+963.5600000000	n/a	n/a	STATUS	n/a	n/a	S 13
+964.1720000000	n/a	n/a	Left Button	n/a	n/a	S 10
+965.2580000000	n/a	n/a	STATUS	n/a	n/a	S  9
+965.2580000000	n/a	n/a	STATUS	n/a	n/a	R 12
+966.0700000000	n/a	n/a	STATUS	n/a	n/a	S  8
+966.0700000000	n/a	n/a	STATUS	n/a	n/a	R  6
+968.9860000000	n/a	n/a	STATUS	n/a	n/a	S 11
+969.6240000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+969.6240000000	n/a	n/a	STATUS	n/a	n/a	R  1
+970.6960000000	n/a	n/a	STATUS	n/a	n/a	S  8
+970.6960000000	n/a	n/a	STATUS	n/a	n/a	R 12
+971.7480000000	n/a	n/a	STATUS	n/a	n/a	S  5
+971.7480000000	n/a	n/a	STATUS	n/a	n/a	R  6
+974.1600000000	n/a	n/a	STATUS	n/a	n/a	S 14
+974.7440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+975.5520000000	n/a	n/a	STATUS	n/a	n/a	S  9
+975.5520000000	n/a	n/a	STATUS	n/a	n/a	R 12
+976.4140000000	n/a	n/a	STATUS	n/a	n/a	S  8
+976.4140000000	n/a	n/a	STATUS	n/a	n/a	R  6
+979.7340000000	n/a	n/a	STATUS	n/a	n/a	S 13
+980.2960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+981.8240000000	n/a	n/a	STATUS	n/a	n/a	S  9
+981.8240000000	n/a	n/a	STATUS	n/a	n/a	R 12
+982.8160000000	n/a	n/a	STATUS	n/a	n/a	S  8
+982.8160000000	n/a	n/a	STATUS	n/a	n/a	R  6
+985.3180000000	n/a	n/a	STATUS	n/a	n/a	S 14
+985.7180000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+985.7180000000	n/a	n/a	STATUS	n/a	n/a	R  1
+986.5600000000	n/a	n/a	STATUS	n/a	n/a	S  9
+986.5600000000	n/a	n/a	STATUS	n/a	n/a	R 12
+987.5220000000	n/a	n/a	STATUS	n/a	n/a	S  8
+987.5220000000	n/a	n/a	STATUS	n/a	n/a	R  6
+990.3680000000	n/a	n/a	STATUS	n/a	n/a	S 12
+990.7580000000	n/a	n/a	Left Button	n/a	n/a	S 10
+991.9120000000	n/a	n/a	STATUS	n/a	n/a	S  8
+991.9120000000	n/a	n/a	STATUS	n/a	n/a	R 12
+992.8340000000	n/a	n/a	STATUS	n/a	n/a	S  5
+992.8340000000	n/a	n/a	STATUS	n/a	n/a	R  6
+995.4540000000	n/a	n/a	STATUS	n/a	n/a	S 12
+995.8940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+996.7820000000	n/a	n/a	STATUS	n/a	n/a	S  8
+996.7820000000	n/a	n/a	STATUS	n/a	n/a	R 12
+997.7340000000	n/a	n/a	STATUS	n/a	n/a	S  5
+997.7340000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1000.9080000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1001.3860000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1002.8560000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1002.8560000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1003.7300000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1003.7300000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1007.0500000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1007.6420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1009.1820000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1009.1820000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1010.1940000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1010.1940000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1013.3060000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1013.8740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1015.3440000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1015.3440000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1016.2560000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1016.2560000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1019.1720000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1019.6660000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+1019.6660000000	n/a	n/a	STATUS	n/a	n/a	R  1
+1020.8400000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1020.8400000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1021.8440000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1021.8440000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1024.5380000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1025.0500000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1026.0940000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1026.0940000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1027.1460000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1027.1460000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1029.6040000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1030.4260000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1031.2840000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1031.2840000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1032.1260000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1032.1260000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1034.8460000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1035.2820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1036.1900000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1036.1900000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1037.1940000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1037.1940000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1039.7800000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1040.1140000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+1040.1140000000	n/a	n/a	STATUS	n/a	n/a	R  1
+1041.0500000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1041.0500000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1041.9120000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1041.9120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1044.9580000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1045.5940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1046.8480000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1046.8480000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1047.7500000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1047.7500000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1050.8480000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1051.2940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1052.6400000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1052.6400000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1053.5620000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1053.5620000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1056.2600000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1056.8620000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+1056.8620000000	n/a	n/a	STATUS	n/a	n/a	R  1
+1057.8300000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1057.8300000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1058.7820000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1058.7820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1061.7220000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1062.3620000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+1062.3620000000	n/a	n/a	STATUS	n/a	n/a	R  1
+1063.6000000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1063.6000000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1064.4820000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1064.4820000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1067.1520000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1067.6660000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1068.5640000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1068.5640000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1069.5560000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1069.5560000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1072.5800000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1073.1420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1074.5040000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1074.5040000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1075.5460000000	n/a	n/a	STATUS	n/a	n/a	S  5
+1075.5460000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1078.0280000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1078.5060000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1079.3760000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1079.3760000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1080.2280000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1080.2280000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1083.1820000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1083.7300000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+1083.7300000000	n/a	n/a	STATUS	n/a	n/a	R  1
+1084.8820000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1084.8820000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1085.9240000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1085.9240000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1088.6180000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1089.2180000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1090.3000000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1090.3000000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1091.3120000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1091.3120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1094.1000000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1094.7500000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1095.8960000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1095.8960000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1096.8900000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1096.8900000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1099.7200000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1100.1820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1101.3500000000	n/a	n/a	STATUS	n/a	n/a	S  9
+1101.3500000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1102.1940000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1102.1940000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1104.9100000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1105.4060000000	n/a	n/a	CUE: D - HARD Alcohol	n/a	n/a	S  4
+1105.4060000000	n/a	n/a	STATUS	n/a	n/a	R  1
+1106.3120000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1106.3120000000	n/a	n/a	STATUS	n/a	n/a	R 12
+1107.3140000000	n/a	n/a	STATUS	n/a	n/a	S  5
+1107.3140000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1123.8940000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1123.8940000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1125.7500000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1125.7500000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1127.5940000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1127.5940000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1129.2220000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1129.2220000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1130.8420000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1130.8420000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1132.3980000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1132.3980000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1134.4300000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1134.4300000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1135.9500000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1135.9500000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1137.5740000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1137.5740000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1139.1300000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1139.1300000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1140.6860000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1140.6860000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1142.1980000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1142.1980000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1143.7380000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1143.7380000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1145.3100000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1145.3100000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1146.7540000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1146.7540000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1148.1580000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1148.1580000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1149.7860000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1149.7860000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1151.2860000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1151.2860000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1152.8140000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1152.8140000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1154.2900000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1154.2900000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1155.7500000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1155.7500000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1157.1900000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1157.1900000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1158.7420000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1158.7420000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1160.3060000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1160.3060000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1161.7940000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1161.7940000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1163.3420000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1163.3420000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1164.7260000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1164.7260000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1166.1760000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1166.1760000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1167.8720000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1167.8720000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1169.3100000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1169.3100000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1170.7080000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1170.7080000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1172.6680000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1172.6680000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1174.2360000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1174.2360000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1175.8120000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1175.8120000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1177.3120000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1177.3120000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1178.8760000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1178.8760000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1180.5000000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1180.5000000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1181.9880000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1181.9880000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1183.4600000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1183.4600000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1184.9240000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1184.9240000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1186.4200000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1186.4200000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1187.8360000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1187.8360000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1189.3560000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1189.3560000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1190.7920000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1190.7920000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1192.2560000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1192.2560000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1193.6840000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1193.6840000000	n/a	n/a	STATUS	n/a	n/a	R  6
+1195.1880000000	n/a	n/a	STATUS	n/a	n/a	S  8
+1195.1880000000	n/a	n/a	STATUS	n/a	n/a	R  7
+1196.6640000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1196.6640000000	n/a	n/a	STATUS	n/a	n/a	R  6

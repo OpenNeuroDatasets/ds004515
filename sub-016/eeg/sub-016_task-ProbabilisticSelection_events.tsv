@@ -1,0 +1,711 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+73.5160000000	n/a	n/a	STATUS	n/a	n/a	S111
+77.6480000000	n/a	n/a	STATUS	n/a	n/a	S111
+81.7160000000	n/a	n/a	STATUS	n/a	n/a	S111
+118.6160000000	n/a	n/a	STATUS	n/a	n/a	S111
+121.7480000000	n/a	n/a	STATUS	n/a	n/a	S111
+124.9400000000	n/a	n/a	STATUS	n/a	n/a	S111
+128.4000000000	n/a	n/a	STATUS	n/a	n/a	S111
+131.5680000000	n/a	n/a	STATUS	n/a	n/a	S111
+135.2320000000	n/a	n/a	STATUS	n/a	n/a	S111
+138.8560000000	n/a	n/a	STATUS	n/a	n/a	S111
+142.2800000000	n/a	n/a	STATUS	n/a	n/a	S111
+146.1400000000	n/a	n/a	STATUS	n/a	n/a	S111
+149.5280000000	n/a	n/a	STATUS	n/a	n/a	S111
+177.1120000000	n/a	n/a	STATUS	n/a	n/a	S111
+182.1080000000	n/a	n/a	STATUS	n/a	n/a	S111
+187.2600000000	n/a	n/a	STATUS	n/a	n/a	S111
+192.0360000000	n/a	n/a	STATUS	n/a	n/a	S111
+196.7580000000	n/a	n/a	STATUS	n/a	n/a	S111
+201.4860000000	n/a	n/a	STATUS	n/a	n/a	S111
+206.2820000000	n/a	n/a	STATUS	n/a	n/a	S111
+210.6300000000	n/a	n/a	STATUS	n/a	n/a	S111
+241.1420000000	n/a	n/a	STATUS	n/a	n/a	S 11
+241.8900000000	n/a	n/a	Left Button	n/a	n/a	S 10
+243.3440000000	n/a	n/a	STATUS	n/a	n/a	S200
+244.3440000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+247.5300000000	n/a	n/a	STATUS	n/a	n/a	S 14
+248.3940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+249.8980000000	n/a	n/a	STATUS	n/a	n/a	S201
+250.8660000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+253.6520000000	n/a	n/a	STATUS	n/a	n/a	S 12
+254.8500000000	n/a	n/a	Right Button	n/a	n/a	S 20
+255.9200000000	n/a	n/a	STATUS	n/a	n/a	S200
+256.9040000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+259.6900000000	n/a	n/a	STATUS	n/a	n/a	S 14
+260.7660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+261.8580000000	n/a	n/a	STATUS	n/a	n/a	S201
+262.7240000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+265.4260000000	n/a	n/a	STATUS	n/a	n/a	S 14
+266.3940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+267.2780000000	n/a	n/a	STATUS	n/a	n/a	S201
+268.2120000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+270.8140000000	n/a	n/a	STATUS	n/a	n/a	S 11
+271.6820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+272.5500000000	n/a	n/a	STATUS	n/a	n/a	S200
+273.5340000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+276.4680000000	n/a	n/a	STATUS	n/a	n/a	S 12
+277.5580000000	n/a	n/a	Left Button	n/a	n/a	S 10
+278.8040000000	n/a	n/a	STATUS	n/a	n/a	S200
+279.8540000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+282.6900000000	n/a	n/a	STATUS	n/a	n/a	S 14
+283.0620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+284.2740000000	n/a	n/a	STATUS	n/a	n/a	S201
+285.2580000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+288.3440000000	n/a	n/a	STATUS	n/a	n/a	S 12
+289.2740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+290.6800000000	n/a	n/a	STATUS	n/a	n/a	S200
+291.5140000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+294.8320000000	n/a	n/a	STATUS	n/a	n/a	S 13
+296.0900000000	n/a	n/a	Left Button	n/a	n/a	S 10
+297.5680000000	n/a	n/a	STATUS	n/a	n/a	S201
+298.5520000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+301.0700000000	n/a	n/a	STATUS	n/a	n/a	S 14
+302.0700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+302.9060000000	n/a	n/a	STATUS	n/a	n/a	S201
+303.9400000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+307.0080000000	n/a	n/a	STATUS	n/a	n/a	S 14
+307.8260000000	n/a	n/a	Left Button	n/a	n/a	S 10
+309.2600000000	n/a	n/a	STATUS	n/a	n/a	S201
+310.1940000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+313.4640000000	n/a	n/a	STATUS	n/a	n/a	S 14
+314.4820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+316.0160000000	n/a	n/a	STATUS	n/a	n/a	S201
+316.9160000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+319.9020000000	n/a	n/a	STATUS	n/a	n/a	S 13
+320.8340000000	n/a	n/a	Left Button	n/a	n/a	S 10
+322.0540000000	n/a	n/a	STATUS	n/a	n/a	S201
+323.0380000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+326.1400000000	n/a	n/a	STATUS	n/a	n/a	S 11
+327.7580000000	n/a	n/a	Right Button	n/a	n/a	S 20
+329.1760000000	n/a	n/a	STATUS	n/a	n/a	S200
+330.2440000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+332.9120000000	n/a	n/a	STATUS	n/a	n/a	S 14
+334.0300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+335.0800000000	n/a	n/a	STATUS	n/a	n/a	S201
+335.9140000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+338.8000000000	n/a	n/a	STATUS	n/a	n/a	S 11
+339.7620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+340.8020000000	n/a	n/a	STATUS	n/a	n/a	S200
+341.7860000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+344.5720000000	n/a	n/a	STATUS	n/a	n/a	S 12
+345.2820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+346.3720000000	n/a	n/a	STATUS	n/a	n/a	S200
+347.3060000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+349.9260000000	n/a	n/a	STATUS	n/a	n/a	S 14
+352.8220000000	n/a	n/a	Right Button	n/a	n/a	S 20
+353.6940000000	n/a	n/a	STATUS	n/a	n/a	S201
+354.6460000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+357.6820000000	n/a	n/a	STATUS	n/a	n/a	S 14
+358.4620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+359.7660000000	n/a	n/a	STATUS	n/a	n/a	S201
+360.8000000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+363.4520000000	n/a	n/a	STATUS	n/a	n/a	S 14
+365.0980000000	n/a	n/a	Left Button	n/a	n/a	S 10
+366.1040000000	n/a	n/a	STATUS	n/a	n/a	S201
+367.1380000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+369.6900000000	n/a	n/a	STATUS	n/a	n/a	S 11
+370.6980000000	n/a	n/a	Right Button	n/a	n/a	S 20
+371.6080000000	n/a	n/a	STATUS	n/a	n/a	S200
+372.5920000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+375.5280000000	n/a	n/a	STATUS	n/a	n/a	S 11
+376.0180000000	n/a	n/a	Left Button	n/a	n/a	S 10
+377.2620000000	n/a	n/a	STATUS	n/a	n/a	S200
+378.2140000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+381.3660000000	n/a	n/a	STATUS	n/a	n/a	S 12
+383.3420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+384.7680000000	n/a	n/a	STATUS	n/a	n/a	S200
+385.8020000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+388.3040000000	n/a	n/a	STATUS	n/a	n/a	S 14
+389.2520000000	n/a	n/a	Right Button	n/a	n/a	S 20
+390.1220000000	n/a	n/a	STATUS	n/a	n/a	S201
+390.9560000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+393.7260000000	n/a	n/a	STATUS	n/a	n/a	S 13
+394.3080000000	n/a	n/a	Left Button	n/a	n/a	S 10
+395.2440000000	n/a	n/a	STATUS	n/a	n/a	S201
+396.2780000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+398.9460000000	n/a	n/a	STATUS	n/a	n/a	S 12
+399.5920000000	n/a	n/a	Left Button	n/a	n/a	S 10
+400.6300000000	n/a	n/a	STATUS	n/a	n/a	S200
+401.4480000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+404.1660000000	n/a	n/a	STATUS	n/a	n/a	S 12
+404.8040000000	n/a	n/a	Left Button	n/a	n/a	S 10
+405.6680000000	n/a	n/a	STATUS	n/a	n/a	S200
+406.6020000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+409.3040000000	n/a	n/a	STATUS	n/a	n/a	S 14
+411.8080000000	n/a	n/a	Right Button	n/a	n/a	S 20
+412.7740000000	n/a	n/a	STATUS	n/a	n/a	S201
+413.7900000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+416.8940000000	n/a	n/a	STATUS	n/a	n/a	S 12
+417.6080000000	n/a	n/a	Left Button	n/a	n/a	S 10
+419.0620000000	n/a	n/a	STATUS	n/a	n/a	S200
+419.9460000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+422.6980000000	n/a	n/a	STATUS	n/a	n/a	S 13
+423.8040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+424.7660000000	n/a	n/a	STATUS	n/a	n/a	S201
+425.7840000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+428.9700000000	n/a	n/a	STATUS	n/a	n/a	S 12
+429.6640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+431.1880000000	n/a	n/a	STATUS	n/a	n/a	S200
+432.1040000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+435.0080000000	n/a	n/a	STATUS	n/a	n/a	S 11
+435.7640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+436.8920000000	n/a	n/a	STATUS	n/a	n/a	S200
+437.7420000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+440.3940000000	n/a	n/a	STATUS	n/a	n/a	S 12
+442.4200000000	n/a	n/a	Left Button	n/a	n/a	S 10
+443.2460000000	n/a	n/a	STATUS	n/a	n/a	S200
+444.1800000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+447.2000000000	n/a	n/a	STATUS	n/a	n/a	S 14
+448.2480000000	n/a	n/a	Right Button	n/a	n/a	S 20
+449.5340000000	n/a	n/a	STATUS	n/a	n/a	S201
+450.4020000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+453.3040000000	n/a	n/a	STATUS	n/a	n/a	S 12
+454.8480000000	n/a	n/a	Left Button	n/a	n/a	S 10
+455.9240000000	n/a	n/a	STATUS	n/a	n/a	S200
+456.9400000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+459.5760000000	n/a	n/a	STATUS	n/a	n/a	S 13
+460.2880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+461.2440000000	n/a	n/a	STATUS	n/a	n/a	S201
+462.2120000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+465.3640000000	n/a	n/a	STATUS	n/a	n/a	S 13
+466.5560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+467.9820000000	n/a	n/a	STATUS	n/a	n/a	S201
+468.9660000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+471.5860000000	n/a	n/a	STATUS	n/a	n/a	S 14
+472.3880000000	n/a	n/a	Right Button	n/a	n/a	S 20
+473.3200000000	n/a	n/a	STATUS	n/a	n/a	S201
+474.2040000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+477.3220000000	n/a	n/a	STATUS	n/a	n/a	S 13
+478.4440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+479.7740000000	n/a	n/a	STATUS	n/a	n/a	S201
+480.6420000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+483.8280000000	n/a	n/a	STATUS	n/a	n/a	S 12
+484.4520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+485.8300000000	n/a	n/a	STATUS	n/a	n/a	S200
+486.7640000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+489.7320000000	n/a	n/a	STATUS	n/a	n/a	S 14
+490.7600000000	n/a	n/a	Left Button	n/a	n/a	S 10
+491.9840000000	n/a	n/a	STATUS	n/a	n/a	S201
+492.8680000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+496.2040000000	n/a	n/a	STATUS	n/a	n/a	S 11
+497.4080000000	n/a	n/a	Right Button	n/a	n/a	S 20
+498.9560000000	n/a	n/a	STATUS	n/a	n/a	S200
+499.8240000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+502.7580000000	n/a	n/a	STATUS	n/a	n/a	S 13
+503.0160000000	n/a	n/a	Left Button	n/a	n/a	S 10
+504.1260000000	n/a	n/a	STATUS	n/a	n/a	S201
+505.1440000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+507.8800000000	n/a	n/a	STATUS	n/a	n/a	S 14
+508.6240000000	n/a	n/a	Right Button	n/a	n/a	S 20
+509.6980000000	n/a	n/a	STATUS	n/a	n/a	S201
+510.7160000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+513.3500000000	n/a	n/a	STATUS	n/a	n/a	S 12
+514.1280000000	n/a	n/a	Left Button	n/a	n/a	S 10
+515.1020000000	n/a	n/a	STATUS	n/a	n/a	S200
+515.9360000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+518.6720000000	n/a	n/a	STATUS	n/a	n/a	S 11
+519.4560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+520.3900000000	n/a	n/a	STATUS	n/a	n/a	S200
+521.2400000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+524.0920000000	n/a	n/a	STATUS	n/a	n/a	S 12
+524.4040000000	n/a	n/a	Left Button	n/a	n/a	S 10
+525.4260000000	n/a	n/a	STATUS	n/a	n/a	S200
+526.3940000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+529.5460000000	n/a	n/a	STATUS	n/a	n/a	S 13
+529.6440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+531.0980000000	n/a	n/a	STATUS	n/a	n/a	S201
+531.9480000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+534.8660000000	n/a	n/a	STATUS	n/a	n/a	S 12
+535.2200000000	n/a	n/a	Right Button	n/a	n/a	S 20
+536.3180000000	n/a	n/a	STATUS	n/a	n/a	S200
+537.1520000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+540.4880000000	n/a	n/a	STATUS	n/a	n/a	S 14
+541.7560000000	n/a	n/a	Left Button	n/a	n/a	S 10
+543.2560000000	n/a	n/a	STATUS	n/a	n/a	S201
+544.3240000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+546.9600000000	n/a	n/a	STATUS	n/a	n/a	S 14
+548.5440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+549.5620000000	n/a	n/a	STATUS	n/a	n/a	S201
+550.5620000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+553.5980000000	n/a	n/a	STATUS	n/a	n/a	S 12
+555.4040000000	n/a	n/a	Left Button	n/a	n/a	S 10
+556.7680000000	n/a	n/a	STATUS	n/a	n/a	S200
+557.7340000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+560.3860000000	n/a	n/a	STATUS	n/a	n/a	S 13
+560.8200000000	n/a	n/a	Right Button	n/a	n/a	S 20
+561.7700000000	n/a	n/a	STATUS	n/a	n/a	S201
+562.7540000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+565.3400000000	n/a	n/a	STATUS	n/a	n/a	S 11
+566.1640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+567.0580000000	n/a	n/a	STATUS	n/a	n/a	S200
+567.9080000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+571.2620000000	n/a	n/a	STATUS	n/a	n/a	S 13
+573.2500000000	n/a	n/a	Left Button	n/a	n/a	S 10
+574.7800000000	n/a	n/a	STATUS	n/a	n/a	S201
+575.6480000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+578.5840000000	n/a	n/a	STATUS	n/a	n/a	S 12
+579.6780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+580.7860000000	n/a	n/a	STATUS	n/a	n/a	S200
+581.6200000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+584.3380000000	n/a	n/a	STATUS	n/a	n/a	S 12
+584.6540000000	n/a	n/a	Right Button	n/a	n/a	S 20
+585.5400000000	n/a	n/a	STATUS	n/a	n/a	S200
+586.6060000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+589.1760000000	n/a	n/a	STATUS	n/a	n/a	S 12
+590.5180000000	n/a	n/a	Right Button	n/a	n/a	S 20
+591.4600000000	n/a	n/a	STATUS	n/a	n/a	S200
+592.2940000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+595.1140000000	n/a	n/a	STATUS	n/a	n/a	S 11
+596.0740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+597.0480000000	n/a	n/a	STATUS	n/a	n/a	S200
+598.0160000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+600.9840000000	n/a	n/a	STATUS	n/a	n/a	S 11
+601.7260000000	n/a	n/a	Left Button	n/a	n/a	S 10
+602.9700000000	n/a	n/a	STATUS	n/a	n/a	S200
+603.8360000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+606.5060000000	n/a	n/a	STATUS	n/a	n/a	S 13
+607.4620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+608.3240000000	n/a	n/a	STATUS	n/a	n/a	S201
+609.3080000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+611.8260000000	n/a	n/a	STATUS	n/a	n/a	S 14
+613.8340000000	n/a	n/a	Right Button	n/a	n/a	S 20
+614.6620000000	n/a	n/a	STATUS	n/a	n/a	S201
+615.7280000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+618.5140000000	n/a	n/a	STATUS	n/a	n/a	S 11
+619.1220000000	n/a	n/a	Left Button	n/a	n/a	S 10
+620.2820000000	n/a	n/a	STATUS	n/a	n/a	S200
+621.2660000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+624.2020000000	n/a	n/a	STATUS	n/a	n/a	S 11
+624.9660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+626.2200000000	n/a	n/a	STATUS	n/a	n/a	S200
+627.1540000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+629.8560000000	n/a	n/a	STATUS	n/a	n/a	S 11
+630.7940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+631.7580000000	n/a	n/a	STATUS	n/a	n/a	S200
+632.5760000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+635.9280000000	n/a	n/a	STATUS	n/a	n/a	S 11
+636.8140000000	n/a	n/a	Left Button	n/a	n/a	S 10
+638.3120000000	n/a	n/a	STATUS	n/a	n/a	S200
+639.3140000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+642.4000000000	n/a	n/a	STATUS	n/a	n/a	S 11
+643.3780000000	n/a	n/a	Right Button	n/a	n/a	S 20
+644.7840000000	n/a	n/a	STATUS	n/a	n/a	S200
+645.6180000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+648.4880000000	n/a	n/a	STATUS	n/a	n/a	S 12
+649.4140000000	n/a	n/a	Right Button	n/a	n/a	S 20
+650.4380000000	n/a	n/a	STATUS	n/a	n/a	S200
+651.4220000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+654.4260000000	n/a	n/a	STATUS	n/a	n/a	S 11
+655.2420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+656.5940000000	n/a	n/a	STATUS	n/a	n/a	S200
+657.5780000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+660.5800000000	n/a	n/a	STATUS	n/a	n/a	S 11
+661.1220000000	n/a	n/a	Right Button	n/a	n/a	S 20
+662.4320000000	n/a	n/a	STATUS	n/a	n/a	S200
+663.4480000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+666.2680000000	n/a	n/a	STATUS	n/a	n/a	S 14
+667.2980000000	n/a	n/a	Right Button	n/a	n/a	S 20
+668.4520000000	n/a	n/a	STATUS	n/a	n/a	S201
+669.3700000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+672.0560000000	n/a	n/a	STATUS	n/a	n/a	S 11
+674.0380000000	n/a	n/a	Left Button	n/a	n/a	S 10
+674.9580000000	n/a	n/a	STATUS	n/a	n/a	S200
+675.8920000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+678.7440000000	n/a	n/a	STATUS	n/a	n/a	S 11
+679.4220000000	n/a	n/a	Right Button	n/a	n/a	S 20
+680.5280000000	n/a	n/a	STATUS	n/a	n/a	S200
+681.4960000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+684.5980000000	n/a	n/a	STATUS	n/a	n/a	S 11
+685.0020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+686.4000000000	n/a	n/a	STATUS	n/a	n/a	S200
+687.2840000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+689.9020000000	n/a	n/a	STATUS	n/a	n/a	S 14
+690.4500000000	n/a	n/a	Right Button	n/a	n/a	S 20
+691.2860000000	n/a	n/a	STATUS	n/a	n/a	S201
+692.1200000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+695.2060000000	n/a	n/a	STATUS	n/a	n/a	S 13
+696.2820000000	n/a	n/a	Right Button	n/a	n/a	S 20
+697.5260000000	n/a	n/a	STATUS	n/a	n/a	S201
+698.3920000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+701.7120000000	n/a	n/a	STATUS	n/a	n/a	S 14
+702.2940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+703.7960000000	n/a	n/a	STATUS	n/a	n/a	S201
+704.8300000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+707.7500000000	n/a	n/a	STATUS	n/a	n/a	S 11
+709.7020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+710.9860000000	n/a	n/a	STATUS	n/a	n/a	S200
+711.9360000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+714.8540000000	n/a	n/a	STATUS	n/a	n/a	S 14
+715.5500000000	n/a	n/a	Right Button	n/a	n/a	S 20
+716.7400000000	n/a	n/a	STATUS	n/a	n/a	S201
+717.7900000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+720.2760000000	n/a	n/a	STATUS	n/a	n/a	S 11
+720.7860000000	n/a	n/a	Left Button	n/a	n/a	S 10
+721.6440000000	n/a	n/a	STATUS	n/a	n/a	S200
+722.6780000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+725.4640000000	n/a	n/a	STATUS	n/a	n/a	S 13
+726.0740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+727.2140000000	n/a	n/a	STATUS	n/a	n/a	S201
+728.0320000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+731.4000000000	n/a	n/a	STATUS	n/a	n/a	S 12
+733.0980000000	n/a	n/a	Left Button	n/a	n/a	S 10
+734.6040000000	n/a	n/a	STATUS	n/a	n/a	S200
+735.6200000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+738.2400000000	n/a	n/a	STATUS	n/a	n/a	S 12
+738.6100000000	n/a	n/a	Right Button	n/a	n/a	S 20
+739.5900000000	n/a	n/a	STATUS	n/a	n/a	S200
+740.4740000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+743.3760000000	n/a	n/a	STATUS	n/a	n/a	S 12
+743.8420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+744.9620000000	n/a	n/a	STATUS	n/a	n/a	S200
+745.8460000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+748.5980000000	n/a	n/a	STATUS	n/a	n/a	S 13
+749.4420000000	n/a	n/a	Right Button	n/a	n/a	S 20
+750.3980000000	n/a	n/a	STATUS	n/a	n/a	S201
+751.3820000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+754.0680000000	n/a	n/a	STATUS	n/a	n/a	S 14
+755.5660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+756.5700000000	n/a	n/a	STATUS	n/a	n/a	S201
+757.5720000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+760.6240000000	n/a	n/a	STATUS	n/a	n/a	S 11
+761.7160000000	n/a	n/a	Right Button	n/a	n/a	S 20
+763.0920000000	n/a	n/a	STATUS	n/a	n/a	S200
+763.9100000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+766.9120000000	n/a	n/a	STATUS	n/a	n/a	S 13
+768.9720000000	n/a	n/a	Right Button	n/a	n/a	S 20
+770.0980000000	n/a	n/a	STATUS	n/a	n/a	S201
+771.1640000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+774.2680000000	n/a	n/a	STATUS	n/a	n/a	S 11
+775.0600000000	n/a	n/a	Left Button	n/a	n/a	S 10
+776.5360000000	n/a	n/a	STATUS	n/a	n/a	S200
+777.3520000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+780.2380000000	n/a	n/a	STATUS	n/a	n/a	S 13
+781.0160000000	n/a	n/a	Right Button	n/a	n/a	S 20
+782.0400000000	n/a	n/a	STATUS	n/a	n/a	S201
+783.0740000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+786.2440000000	n/a	n/a	STATUS	n/a	n/a	S 13
+787.1440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+788.6780000000	n/a	n/a	STATUS	n/a	n/a	S201
+789.4960000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+792.6480000000	n/a	n/a	STATUS	n/a	n/a	S 13
+793.2360000000	n/a	n/a	Right Button	n/a	n/a	S 20
+794.5160000000	n/a	n/a	STATUS	n/a	n/a	S201
+795.3500000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+798.3860000000	n/a	n/a	STATUS	n/a	n/a	S 14
+799.2320000000	n/a	n/a	Right Button	n/a	n/a	S 20
+800.4380000000	n/a	n/a	STATUS	n/a	n/a	S201
+801.2540000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+804.5240000000	n/a	n/a	STATUS	n/a	n/a	S 11
+805.4600000000	n/a	n/a	Left Button	n/a	n/a	S 10
+806.8580000000	n/a	n/a	STATUS	n/a	n/a	S200
+807.8420000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+811.0280000000	n/a	n/a	STATUS	n/a	n/a	S 14
+811.7280000000	n/a	n/a	Right Button	n/a	n/a	S 20
+813.2300000000	n/a	n/a	STATUS	n/a	n/a	S201
+814.1480000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+816.8000000000	n/a	n/a	STATUS	n/a	n/a	S 13
+817.6440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+818.5180000000	n/a	n/a	STATUS	n/a	n/a	S201
+819.3520000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+822.5700000000	n/a	n/a	STATUS	n/a	n/a	S 11
+823.2840000000	n/a	n/a	Left Button	n/a	n/a	S 10
+824.6720000000	n/a	n/a	STATUS	n/a	n/a	S200
+825.6900000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+828.6260000000	n/a	n/a	STATUS	n/a	n/a	S 12
+829.3600000000	n/a	n/a	Right Button	n/a	n/a	S 20
+830.6440000000	n/a	n/a	STATUS	n/a	n/a	S200
+831.6120000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+834.4800000000	n/a	n/a	STATUS	n/a	n/a	S 13
+835.5720000000	n/a	n/a	Left Button	n/a	n/a	S 10
+836.7160000000	n/a	n/a	STATUS	n/a	n/a	S201
+837.6320000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+840.4180000000	n/a	n/a	STATUS	n/a	n/a	S 12
+840.7000000000	n/a	n/a	Right Button	n/a	n/a	S 20
+841.7680000000	n/a	n/a	STATUS	n/a	n/a	S200
+842.7360000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+845.3880000000	n/a	n/a	STATUS	n/a	n/a	S 12
+845.7320000000	n/a	n/a	Right Button	n/a	n/a	S 20
+846.6720000000	n/a	n/a	STATUS	n/a	n/a	S200
+847.5400000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+850.5260000000	n/a	n/a	STATUS	n/a	n/a	S 12
+851.0640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+852.2440000000	n/a	n/a	STATUS	n/a	n/a	S200
+853.2120000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+855.8140000000	n/a	n/a	STATUS	n/a	n/a	S 12
+856.3400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+857.2300000000	n/a	n/a	STATUS	n/a	n/a	S200
+858.1980000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+861.0180000000	n/a	n/a	STATUS	n/a	n/a	S 13
+861.6200000000	n/a	n/a	Right Button	n/a	n/a	S 20
+862.7180000000	n/a	n/a	STATUS	n/a	n/a	S201
+863.6020000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+866.8720000000	n/a	n/a	STATUS	n/a	n/a	S 11
+867.2560000000	n/a	n/a	Left Button	n/a	n/a	S 10
+868.7400000000	n/a	n/a	STATUS	n/a	n/a	S200
+869.6580000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+872.8600000000	n/a	n/a	STATUS	n/a	n/a	S 11
+873.3360000000	n/a	n/a	Left Button	n/a	n/a	S 10
+874.7600000000	n/a	n/a	STATUS	n/a	n/a	S200
+875.5940000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+878.5640000000	n/a	n/a	STATUS	n/a	n/a	S 13
+879.0080000000	n/a	n/a	Right Button	n/a	n/a	S 20
+880.1320000000	n/a	n/a	STATUS	n/a	n/a	S201
+880.9660000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+884.2340000000	n/a	n/a	STATUS	n/a	n/a	S 14
+885.7600000000	n/a	n/a	Left Button	n/a	n/a	S 10
+887.1880000000	n/a	n/a	STATUS	n/a	n/a	S201
+888.2540000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+890.8240000000	n/a	n/a	STATUS	n/a	n/a	S 12
+891.6720000000	n/a	n/a	Right Button	n/a	n/a	S 20
+892.6240000000	n/a	n/a	STATUS	n/a	n/a	S200
+893.5080000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+896.4280000000	n/a	n/a	STATUS	n/a	n/a	S 12
+897.6960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+898.8300000000	n/a	n/a	STATUS	n/a	n/a	S200
+899.8800000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+902.6820000000	n/a	n/a	STATUS	n/a	n/a	S 14
+903.8160000000	n/a	n/a	Right Button	n/a	n/a	S 20
+905.0000000000	n/a	n/a	STATUS	n/a	n/a	S201
+905.9340000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+908.7540000000	n/a	n/a	STATUS	n/a	n/a	S 14
+909.2400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+910.3220000000	n/a	n/a	STATUS	n/a	n/a	S201
+911.2560000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+914.1420000000	n/a	n/a	STATUS	n/a	n/a	S 13
+915.2320000000	n/a	n/a	Left Button	n/a	n/a	S 10
+916.3760000000	n/a	n/a	STATUS	n/a	n/a	S201
+917.3440000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+920.5120000000	n/a	n/a	STATUS	n/a	n/a	S 14
+922.1720000000	n/a	n/a	Right Button	n/a	n/a	S 20
+923.6320000000	n/a	n/a	STATUS	n/a	n/a	S201
+924.5820000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+927.8520000000	n/a	n/a	STATUS	n/a	n/a	S 14
+928.4160000000	n/a	n/a	Left Button	n/a	n/a	S 10
+929.9700000000	n/a	n/a	STATUS	n/a	n/a	S201
+930.9880000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+933.5060000000	n/a	n/a	STATUS	n/a	n/a	S 13
+934.5320000000	n/a	n/a	Left Button	n/a	n/a	S 10
+935.3740000000	n/a	n/a	STATUS	n/a	n/a	S201
+936.2080000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+939.3940000000	n/a	n/a	STATUS	n/a	n/a	S 13
+940.1040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+941.4280000000	n/a	n/a	STATUS	n/a	n/a	S201
+942.4460000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+945.6320000000	n/a	n/a	STATUS	n/a	n/a	S 13
+946.4880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+948.0000000000	n/a	n/a	STATUS	n/a	n/a	S201
+949.0180000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+952.0700000000	n/a	n/a	STATUS	n/a	n/a	S 13
+952.4140000000	n/a	n/a	Right Button	n/a	n/a	S 20
+953.8040000000	n/a	n/a	STATUS	n/a	n/a	S201
+954.7060000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+957.4080000000	n/a	n/a	STATUS	n/a	n/a	S 12
+958.1340000000	n/a	n/a	Right Button	n/a	n/a	S 20
+959.0580000000	n/a	n/a	STATUS	n/a	n/a	S200
+959.9420000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+962.7960000000	n/a	n/a	STATUS	n/a	n/a	S 13
+963.6260000000	n/a	n/a	Left Button	n/a	n/a	S 10
+964.6960000000	n/a	n/a	STATUS	n/a	n/a	S201
+965.6140000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+968.6660000000	n/a	n/a	STATUS	n/a	n/a	S 14
+969.3620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+970.6680000000	n/a	n/a	STATUS	n/a	n/a	S201
+971.6520000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+974.3880000000	n/a	n/a	STATUS	n/a	n/a	S 14
+975.7780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+976.8220000000	n/a	n/a	STATUS	n/a	n/a	S201
+977.6740000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+980.4420000000	n/a	n/a	STATUS	n/a	n/a	S 12
+981.2300000000	n/a	n/a	Right Button	n/a	n/a	S 20
+982.1760000000	n/a	n/a	STATUS	n/a	n/a	S200
+983.0100000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+986.2960000000	n/a	n/a	STATUS	n/a	n/a	S 12
+986.7020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+988.1480000000	n/a	n/a	STATUS	n/a	n/a	S200
+989.0660000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+991.9680000000	n/a	n/a	STATUS	n/a	n/a	S 14
+992.7020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+993.8520000000	n/a	n/a	STATUS	n/a	n/a	S201
+994.6700000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+997.4060000000	n/a	n/a	STATUS	n/a	n/a	S 13
+998.2300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+999.0900000000	n/a	n/a	STATUS	n/a	n/a	S201
+1000.0060000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1002.7260000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1003.8860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1004.8280000000	n/a	n/a	STATUS	n/a	n/a	S201
+1005.6440000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+1008.4800000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1009.2460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1010.2320000000	n/a	n/a	STATUS	n/a	n/a	S201
+1011.2980000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1014.1840000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1014.5580000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1015.8200000000	n/a	n/a	STATUS	n/a	n/a	S200
+1016.8540000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1019.4880000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1019.8700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1020.8720000000	n/a	n/a	STATUS	n/a	n/a	S200
+1021.8400000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1024.7420000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1025.1380000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1026.3280000000	n/a	n/a	STATUS	n/a	n/a	S201
+1027.2620000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+1029.8300000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1030.5300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1031.3640000000	n/a	n/a	STATUS	n/a	n/a	S200
+1032.1980000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1035.2340000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1035.7900000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1036.9860000000	n/a	n/a	STATUS	n/a	n/a	S200
+1038.0020000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1040.8380000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1041.3180000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1042.4900000000	n/a	n/a	STATUS	n/a	n/a	S200
+1043.4900000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1046.1920000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1046.7940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1047.8600000000	n/a	n/a	STATUS	n/a	n/a	S200
+1048.7120000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1052.0800000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1052.5260000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1054.0660000000	n/a	n/a	STATUS	n/a	n/a	S200
+1055.0500000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1057.8340000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1058.3660000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1059.4700000000	n/a	n/a	STATUS	n/a	n/a	S201
+1060.4700000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1063.6560000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1064.3860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1065.8900000000	n/a	n/a	STATUS	n/a	n/a	S201
+1066.7240000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1069.5780000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1070.3180000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1071.3280000000	n/a	n/a	STATUS	n/a	n/a	S201
+1072.2460000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1075.1980000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1075.8940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1077.0820000000	n/a	n/a	STATUS	n/a	n/a	S201
+1078.0160000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+1080.8520000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1081.4620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1082.5540000000	n/a	n/a	STATUS	n/a	n/a	S201
+1083.5540000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1086.2060000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1086.8300000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1087.8080000000	n/a	n/a	STATUS	n/a	n/a	S201
+1088.7920000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+1091.9780000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1092.9740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1094.4620000000	n/a	n/a	STATUS	n/a	n/a	S201
+1095.3460000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+1098.5160000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1100.8540000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1102.2360000000	n/a	n/a	STATUS	n/a	n/a	S200
+1103.2520000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1106.4060000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1106.8020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1108.3060000000	n/a	n/a	STATUS	n/a	n/a	S200
+1109.2240000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1112.3440000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1112.9460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1114.3120000000	n/a	n/a	STATUS	n/a	n/a	S200
+1115.1620000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1117.9480000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1118.7580000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1119.7480000000	n/a	n/a	STATUS	n/a	n/a	S200
+1120.8160000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1123.4340000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1123.8860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1124.8860000000	n/a	n/a	STATUS	n/a	n/a	S200
+1125.7200000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1128.9900000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1129.9900000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1131.4240000000	n/a	n/a	STATUS	n/a	n/a	S201
+1132.3420000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+1135.0280000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1136.2080000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1137.1960000000	n/a	n/a	STATUS	n/a	n/a	S200
+1138.0620000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1141.1980000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1142.8120000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1144.1500000000	n/a	n/a	STATUS	n/a	n/a	S200
+1145.0180000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1147.8040000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1148.5000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1149.4880000000	n/a	n/a	STATUS	n/a	n/a	S200
+1150.4560000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1153.0740000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1153.7920000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1154.7080000000	n/a	n/a	STATUS	n/a	n/a	S201
+1155.5600000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1158.7120000000	n/a	n/a	STATUS	n/a	n/a	S 12
+1159.4200000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1160.7460000000	n/a	n/a	STATUS	n/a	n/a	S200
+1161.5800000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1164.5160000000	n/a	n/a	STATUS	n/a	n/a	S 11
+1164.8520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1165.9500000000	n/a	n/a	STATUS	n/a	n/a	S200
+1167.0180000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1169.7540000000	n/a	n/a	STATUS	n/a	n/a	S 14
+1170.2120000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1171.3220000000	n/a	n/a	STATUS	n/a	n/a	S201
+1172.2900000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1175.1580000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1175.8320000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1177.0100000000	n/a	n/a	STATUS	n/a	n/a	S201
+1177.9260000000	n/a	n/a	FB: WIN ALCOHOL	n/a	n/a	S103
+1180.9620000000	n/a	n/a	STATUS	n/a	n/a	S 13
+1181.5640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1182.8980000000	n/a	n/a	STATUS	n/a	n/a	S201
+1183.9320000000	n/a	n/a	FB: LOSE ALCOHOL	n/a	n/a	S104
+1205.7680000000	n/a	n/a	STATUS	n/a	n/a	S120
+1208.5800000000	n/a	n/a	STATUS	n/a	n/a	S110
+1212.5360000000	n/a	n/a	STATUS	n/a	n/a	S120
+1214.8520000000	n/a	n/a	STATUS	n/a	n/a	S120
+1216.7120000000	n/a	n/a	STATUS	n/a	n/a	S110
+1218.2560000000	n/a	n/a	STATUS	n/a	n/a	S110
+1220.6000000000	n/a	n/a	STATUS	n/a	n/a	S110
+1222.2120000000	n/a	n/a	STATUS	n/a	n/a	S120
+1224.8480000000	n/a	n/a	STATUS	n/a	n/a	S120
+1227.6400000000	n/a	n/a	STATUS	n/a	n/a	S110
+1229.3480000000	n/a	n/a	STATUS	n/a	n/a	S120
+1231.0160000000	n/a	n/a	STATUS	n/a	n/a	S110
+1232.8360000000	n/a	n/a	STATUS	n/a	n/a	S110
+1235.7480000000	n/a	n/a	STATUS	n/a	n/a	S110
+1237.5040000000	n/a	n/a	STATUS	n/a	n/a	S110
+1239.1480000000	n/a	n/a	STATUS	n/a	n/a	S120
+1240.6920000000	n/a	n/a	STATUS	n/a	n/a	S120
+1243.5480000000	n/a	n/a	STATUS	n/a	n/a	S120
+1245.5680000000	n/a	n/a	STATUS	n/a	n/a	S120
+1247.7560000000	n/a	n/a	STATUS	n/a	n/a	S120
+1249.3080000000	n/a	n/a	STATUS	n/a	n/a	S110
+1251.0040000000	n/a	n/a	STATUS	n/a	n/a	S120
+1252.9040000000	n/a	n/a	STATUS	n/a	n/a	S120
+1254.4600000000	n/a	n/a	STATUS	n/a	n/a	S120
+1256.1800000000	n/a	n/a	STATUS	n/a	n/a	S110
+1257.8280000000	n/a	n/a	STATUS	n/a	n/a	S110
+1260.2600000000	n/a	n/a	STATUS	n/a	n/a	S110
+1262.6160000000	n/a	n/a	STATUS	n/a	n/a	S110
+1264.3080000000	n/a	n/a	STATUS	n/a	n/a	S120
+1266.0080000000	n/a	n/a	STATUS	n/a	n/a	S120
+1268.7640000000	n/a	n/a	STATUS	n/a	n/a	S120
+1270.5240000000	n/a	n/a	STATUS	n/a	n/a	S110
+1272.2920000000	n/a	n/a	STATUS	n/a	n/a	S110
+1273.9680000000	n/a	n/a	STATUS	n/a	n/a	S120
+1275.7040000000	n/a	n/a	STATUS	n/a	n/a	S120
+1278.3480000000	n/a	n/a	STATUS	n/a	n/a	S120
+1280.0200000000	n/a	n/a	STATUS	n/a	n/a	S120
+1282.0920000000	n/a	n/a	STATUS	n/a	n/a	S110
+1284.0120000000	n/a	n/a	STATUS	n/a	n/a	S110
+1286.0840000000	n/a	n/a	STATUS	n/a	n/a	S120
+1288.0680000000	n/a	n/a	STATUS	n/a	n/a	S110
+1289.6600000000	n/a	n/a	STATUS	n/a	n/a	S110
+1291.3120000000	n/a	n/a	STATUS	n/a	n/a	S120
+1292.7600000000	n/a	n/a	STATUS	n/a	n/a	S110
+1294.3480000000	n/a	n/a	STATUS	n/a	n/a	S120
+1295.8600000000	n/a	n/a	STATUS	n/a	n/a	S110
+1298.3120000000	n/a	n/a	STATUS	n/a	n/a	S110
+1300.4600000000	n/a	n/a	STATUS	n/a	n/a	S120
