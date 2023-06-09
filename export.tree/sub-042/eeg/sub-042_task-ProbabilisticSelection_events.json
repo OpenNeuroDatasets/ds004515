@@ -1,9 +1,0 @@
-{
-  "onset": {
-    "Description": "Event onset",
-    "Units": "seconds"
-  },
-  "value": {
-    "Description": "Trigger Code"
-  }
-}
